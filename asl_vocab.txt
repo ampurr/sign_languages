@@ -1,0 +1,51 @@
+asl_vocab
+
+Started 2022-05-25. Last edited 2022-05-25.
+
+KEY
+nm		non-manual
+nondom	non-dominant
+dom		dominant
+
+
+#		Morphemes		English Words		Description
+
+001		NO				no					3-handshape.	handshape change. fingertips touch.
+002		YES				yes, affirmative	s-handshape.	handshape stable. movement @ wrist like nodding. nm::nod_head.
+003		VOICE			voice, oral			v-handshape.	handshape stable. movement @ all from throat outward.
+004		RIGHT			right, correct		1-handshapes.	handshape stable. movement @ arm. hand falls onto other hand.
+005		WRONG			wrong				y-handshape.	handshape stable. movement @ arm to chin. nm:_shake_head.
+006		GESTURE			gesture, sign		5-handshapes.	handshape stable. movement @ arms circling forward asynchronously like bike.
+007		SHAPE			shape, statue		a-handshapes.	handshape stable. movement @ arms. use thumbtips to draw hourglass.
+008		CIRCLE			circle, round		1-handshapes.	handshape stable. movement @ arms. use indextips to draw circle.
+009		SQUARE			square, box			1-handshapes.	handshape stable. movement @ arms. use indextips to draw square.
+010		COLOR			color, colorful		5-handshape.	handshape change. fingertips flutter on chin. color spray into eyes.
+011		RED				red					1>x-handshape.	handshape change. movement @ arm. down a lil + changes into x-handshape.
+012		ORANGE			orange (color)		c>s-handshape.	handshape change. change to s-handshape, repeat. squeezing orange.
+013		YELLOW			yellow				y-handshape.	handshape stable. movement @ wrist. quick small twists. banana back + forth.
+014		GREEN			green				g-handshape.	handshape stable. movement @ wrist. quick small twists. vines or grape.
+015		BLUE			blue				b-handshape.	handshape stable. movement @ wrist. quick small twists. blue door turning.
+016		PURPLE			purple				p-handshape.	handshape stable. movement @ wrist. quick small twists. paint on fingers.
+017		PINK			pink (like red)		k-handshape.	handshape stable. movement @ arm. middle finger on chin. small down. ballet slip.
+018		BROWN			brown				b-handshape.	handshape stable. movement @ arm. slide down cheek. shit flows downhill.
+019		TAN				tan (like brown)	t-handshape.	handshape stable. movement @ arm. slide down cheek.
+020		WHITE			white (color)		5-handshape.	handshape change. movement @ all. pull out from chest. fingertips touch.
+021		GREY			grey				5-handshapes.	handshape stable. movement @ arm. quick small brushes past. fingers in-between.
+022		BLACK			black (color)		1-handshape.	handshape stable. movement @ arm. from far to near side of brow.
+023		SILVER			silver				s-handshape.	handshape stable. movement @ all. start from ear + shake down. pepper.
+024		GOLD			gold				y-handshape.	handshape stable. movement @ all. start from ear + shake down. yellow flakes.
+025		HOT				hot, heat			c-handshape.	handshape stable. movement @ all. start from mouth + slide down. remove hot thing in mouth.
+026		HELLO			hello, hi			b-handshape.	handshape stable. movement @ arm. thumb away. move from head away.
+027		GOODBYE			goodbye, bye		b-handshape.	handshape stable. movement @ all. thumb away. quick small shakes.
+028		NAME			name				h-handshapes.	handshape stable. movement @ wrist. fingers fall on other fingers twice. x.
+029		LEARN-PERSON	student				5,b-handshapes.	handshape change. movement @ arm. fingertips touch, pull up from nondom, arch down. trash.
+030		TEACH-PERSON	teacher, prof		o>b-handshape.	handshape change. movement @ arm. flat o forward then drop to open b. seeing you.
+031		NICE, CLEAN		nice, clean			5-handshapes.	handshape stable. movement @ arm. fingers tight. brush from palm to fingers.
+032		MEET-YOU		meet you			1-handshapes.	handshape stable. movement @ arm. nondom towards other. dom moves towards other.
+033		UNDERSTAND		understand			s>d-handshape.	handshape change. next to head. flick. nm::head_nod if desired.
+034		NOT-UNDERSTAND	not understand		s>d-handshape.	handshape change. next to head. flick. nm::head_shake.
+035		UNDERSTAND?		do you understand?	s>d-handshape.	handshape change. next to head. flick. nm::eyebrows_up.
+036		HOW-YOU?		how are you?		c-handshape.	handshape stable. McD's rolls upside down. Then use YOU. nm::eyebrows_up.
+037		WHAT'S UP?		what's up?			25-handshape.	handshape stable. point near chest then flip to palm up. nm::eyebrows_up.
+
+1.1 3:11
