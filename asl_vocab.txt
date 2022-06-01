@@ -52,6 +52,11 @@ dom		dominant
 039		AGAIN			again, repeat		5-handshapes.	handshape stable. movement @ arm. bent closed 5 arcs to nondom palm.
 040		THINK-SAME2		agree				1-handshapes.	handshape stable. movement @ arm. finger on forehead, then parallel at chest w nondom. nod.
 041		THINK-SAME1		agree in thought	1>y-handshapes.	handshape stable. movement @ arm. finger on forehand, then directional SAME.
+042		PRACTICE		practice			a,1-handshapes.	handshape stable. movement @ arm. a slides back and forth on 1-handshape.
+043		THANK-YOU		thank you			5-handshape.	handshape stable. movement @ arm. closed 5 from chin to other.
+044		DOG				dog					b-handshape.	handshape stable. movement @ arm. flick ear from side a few times. doggy ear.
+045		CAT				cat					f-handshape.	handshape change. below the nose. open f to closed f. repeat. kitty whiskers.
+046		NUMBER			number, quantity	o-handshapes.	handshape stable. movement @ wrist. 
 
 
 1.1 3:20
