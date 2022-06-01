@@ -66,4 +66,9 @@ dom		dominant
 051		POSSESSION		yours, possession	5-handshape.	handshape stable. movement @ arm. closed 5 performs indexing moves.
 052		MAN				adult male			5-handshape.	handshape stable. movement @ arm. thumb at forehead, then moves to chest.
 053		WOMAN			adult female		5-handshape.	handshape stable. movement @ arm. thumb at chin, then moves to chest.
+054		PERSON			person, agent		5-handshapes.	handshape stable. movement @ arm. closed 5's move down parallel to sides of body.
+055		BOY				minor male			o-handshape.	handshape change. bent o is open, closes, opens, closes. forehead. top hat.
+056		GIRL			minor female		a-handshape.	handshape stable. movement @ arm. thumbtip traces down jawline. nail facing me.
 
+
+1.2 1:41
