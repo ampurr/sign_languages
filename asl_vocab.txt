@@ -93,7 +93,20 @@ OTHER NOTES
 075		DRINK			drink, beverage		c-handshape.	handshape stable. movement @ all. arc to mouth. move mouth down and DRINK up for CHUG.
 076		JUICE			juice				j-handshape.	handshape stable. movement @ wrist. fingerspell j twice.
 077		APPLE			apple				x-handshape.	handshape stable. movement @ wrist. twist twice against cheek.
-078
+078		COFFEE			coffee				s-handshapes.	handshape stable. movement @ arm. counter-clockwise coffee grind. only dom hand moves.
+079		TEA				tea					f,o-handshapes.	handshape stable. movement @ arm. dunk teabag into tea.
+080		SODA			soda, pop			25>5,o-handsh.	handshape change. stick middle finger in soda, pull out, drop closed 5 like a lid.
+081		WATER			water				w-handshape.	handshape stable. movement @ arm. tap thin facing w sign on lips twice.
+082		FRUIT			fruit				f-handshape.	handshape stable. movement @ wrist. twist twice against cheek.
+083		VEGETABLE		vegetable			v-handshape.	handshape stable. movement @ wrist. twist twice against cheek.
+084		BANANA			banana				o,1-handshapes.	handshape stable. movement @ all. flat o peels banana.
+085		STRAWBERRY		strawberry			f-handshape.	handshape stable. movement @ wrist. twist twice. pull strawberry from mouth.
+086		GRAPES1			grapes				5,s-handshapes.	handshape stable. movement @ all. fall down the hand with fingers twice or thrice. shape.
+087		GRAPES2			grapes				5-handshapes.	handshape stable. movement @ all. GRAPE1 but nondom is closed 5.
+088		LEMON			lemon				l-handshape.	handshape stable. movement @ wrist. thumb on chin as stable axis. drop clockwise twice.
+089		MELON			melon				8>5,5-handsh.	handshape change. dom flicks top of nondom twice when changing. flick melon for freshness.
+090		WATER-MELON		watermelon			series			handshape change. sign WATER followed by MELON.
+091
 
 
 
