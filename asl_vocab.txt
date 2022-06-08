@@ -1,6 +1,6 @@
 asl_vocab
 
-Started 2022-05-25. Last edited 2022-06-01.
+Started 2022-05-25. Last edited 2022-06-08.
 
 Excludes letters, numbers, and indexing.
 
@@ -9,6 +9,9 @@ KEY
 nm		non-manual
 nondom	non-dominant
 dom		dominant
+
+OTHER NOTES
+* once for verb, twice for noun
 
 
 #		Morphemes		English Words		Description
@@ -69,6 +72,12 @@ dom		dominant
 054		PERSON			person, agent		5-handshapes.	handshape stable. movement @ arm. closed 5's move down parallel to sides of body.
 055		BOY				minor male			o-handshape.	handshape change. bent o is open, closes, opens, closes. forehead. top hat.
 056		GIRL			minor female		a-handshape.	handshape stable. movement @ arm. thumbtip traces down jawline. nail facing me.
+057		~DO				what (to) do(ing)	g-handshapes.	handshape change. facing up, close/open twice. nm::w_lower_eyebrows.
+058		TOMORROW		tomorrow			a-handshape.	handshape stable. movement @ arm. swing near side of head once.
+059		EVERYDAY		everyday, daily		a-handshape.	handshape stable. movement @ arm. swing near side of head twice. double TOMORROW.
+060		EAT				eat, consume		o-handshape.	handshape stable. movement @ arm. bent o moves to mouth once.
+061		FOOD			food				o-handshape.	handshape stable. movement @ arm. bent o moves to mouth twice (cuz noun).
+
 
 
 1.2 1:41
