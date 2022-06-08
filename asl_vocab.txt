@@ -2,7 +2,7 @@ asl_vocab
 
 Started 2022-05-25. Last edited 2022-06-08.
 
-Excludes letters, numbers, and indexing.
+Excludes letters, numbers, and indexing. Sources: mostly SLC 1–2 + Lifeprint.
 
 KEY
 ~x		non-manual morpheme
@@ -27,7 +27,7 @@ OTHER NOTES
 009		SQUARE			square, box			1-handshapes.	handshape stable. movement @ arms. use indextips to draw square.
 010		COLOR			color, colorful		5-handshape.	handshape change. fingertips flutter on chin. color spray into eyes.
 011		RED				red					1>x-handshape.	handshape change. movement @ arm. down a lil + changes into x-handshape.
-012		ORANGE			orange (color)		c>s-handshape.	handshape change. change to s-handshape, repeat. squeezing orange.
+012		ORANGE			orange				c>s-handshape.	handshape change. change to s-handshape, repeat. squeezing orange.
 013		YELLOW			yellow				y-handshape.	handshape stable. movement @ wrist. quick small twists. banana back + forth.
 014		GREEN			green				g-handshape.	handshape stable. movement @ wrist. quick small twists. vines or grape.
 015		BLUE			blue				b-handshape.	handshape stable. movement @ wrist. quick small twists. blue door turning.
@@ -76,7 +76,24 @@ OTHER NOTES
 058		TOMORROW		tomorrow			a-handshape.	handshape stable. movement @ arm. swing near side of head once.
 059		EVERYDAY		everyday, daily		a-handshape.	handshape stable. movement @ arm. swing near side of head twice. double TOMORROW.
 060		EAT				eat, consume		o-handshape.	handshape stable. movement @ arm. bent o moves to mouth once.
-061		FOOD			food				o-handshape.	handshape stable. movement @ arm. bent o moves to mouth twice (cuz noun).
+061		FOOD			food				o-handshape.	handshape stable. movement @ arm. bent o moves to mouth twice.
+062		MORNING1		morning				5-handshapes.	handshape stable. movement @ wrist. dom bends in front, touch fingers of nondom palm down.
+063		MORNING2		(all) morning		5-handshapes.	handshape stable. movement @ elbow. MORNING1 but nondom will be wrapped in dom arm's elbow.
+064		EVERY-MORNING	every morning		5-handshapes.	handshape stable. movement @ all. MORNING1 but slide from nondom elbow to hand.
+065		EAT-MORNING		breakfast			o>5-handshapes.	handshape change. sign EAT followed by MORNING1 or 2.
+066		BREAKFAST		breakfast			b-handshape.	handshape stable. movement @ arm. spin like bike between chin and nose. drink soup.
+067		NOON			noon, afternoon		5-handshapes.	handshape stable. movement @ arm. dom hand thin facing, elbow on top of nondom hand.
+068		EAT-NOON		lunch				o>5-handshapes. handshape change. sign EAT followed by modified NOON, dom elbow below nondom, turnpike.
+069		LUNCH			lunch				l-handshape.	handshape stable. movement @ arm. BREAKFAST but w/ l-handshape.
+070		NIGHT			night, evening		5-handshapes.	handshape stable. movement @ arm. dom bent 5 palm on nondom hand. sunset.
+071		EVERY-NIGHT		nightly				5-handshapes.	handshape stable. movement @ arm. EVERY-MORNING but use dom NIGHT instead.
+072		EAT-NIGHT		dinner, supper		o>5-handshapes.	handshape change. sign EAT followed by NIGHT.
+073		DINNER			dinner, supper		d-handshape.	handshape stable. movement @ arm. BREAKFAST but w/ d-handshape.
+074		ALL				all, whole			b-handshapes.	handshape stable. movement @ all. open b. dom rotates like scooping then lands on nondom.
+075		DRINK			drink, beverage		c-handshape.	handshape stable. movement @ all. arc to mouth. move mouth down and DRINK up for CHUG.
+076		JUICE			juice				j-handshape.	handshape stable. movement @ wrist. fingerspell j twice.
+077		APPLE			apple				x-handshape.	handshape stable. movement @ wrist. twist twice against cheek.
+078
 
 
 
