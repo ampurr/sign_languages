@@ -106,7 +106,8 @@ OTHER NOTES
 088		LEMON			lemon				l-handshape.	handshape stable. movement @ wrist. thumb on chin as stable axis. drop clockwise twice.
 089		MELON			melon				8>5,5-handsh.	handshape change. dom flicks top of nondom twice when changing. flick melon for freshness.
 090		WATER-MELON		watermelon			series			handshape change. sign WATER followed by MELON.
-091
+091		TOMATO			tomato				d,o-handshapes.	handshape stable. movement @ wrist. drop once near nondom like cutting a tomato.
+092		MUSHROOM		mushroom
 
 
 
