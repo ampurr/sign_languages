@@ -1,8 +1,8 @@
 asl_vocab
 
-Started 2022-05-25. Last edited 2022-06-08.
+Started 2022-05-25. Last edited 2022-06-14.
 
-Excludes letters, numbers, and indexing. Sources: mostly SLC 1–2 + Lifeprint.
+Excludes letters, numbers, and indexing. Sources: mostly SLC 1–2 + Lifeprint + Handspeak.
 
 KEY
 ~x		non-manual morpheme
@@ -40,7 +40,7 @@ OTHER NOTES
 022		BLACK			black (color)		1-handshape.	handshape stable. movement @ arm. from far to near side of brow.
 023		SILVER			silver				s-handshape.	handshape stable. movement @ all. start from ear + shake down. pepper.
 024		GOLD			gold				y-handshape.	handshape stable. movement @ all. start from ear + shake down. yellow flakes.
-025		HOT				hot, heat			c-handshape.	handshape stable. movement @ all. start from mouth + slide down. remove hot thing in mouth.
+025		HOT				hot, heat			5-handshape.	handshape stable. movement @ all. start from mouth + slide down. remove hot thing in mouth.
 026		HELLO			hello, hi			b-handshape.	handshape stable. movement @ arm. thumb away. move from head away.
 027		GOODBYE			goodbye, bye		5-handshape.	handshape stable. movement @ arm. quick small shakes.
 028		NAME			name				h-handshapes.	handshape stable. movement @ wrist. fingers fall on other fingers twice. x.
@@ -105,10 +105,19 @@ OTHER NOTES
 087		GRAPES2			grapes				5-handshapes.	handshape stable. movement @ all. GRAPE1 but nondom is closed 5.
 088		LEMON			lemon				l-handshape.	handshape stable. movement @ wrist. thumb on chin as stable axis. drop clockwise twice.
 089		MELON			melon				8>5,5-handsh.	handshape change. dom flicks top of nondom twice when changing. flick melon for freshness.
-090		WATER-MELON		watermelon			series			handshape change. sign WATER followed by MELON.
+090		WATER-MELON		watermelon			many handsh.	handshape change. sign WATER followed by MELON.
 091		TOMATO			tomato				d,o-handshapes.	handshape stable. movement @ wrist. drop once near nondom like cutting a tomato.
-092		MUSHROOM		mushroom
-
+092		MUSHROOM		mushroom			5,1-handshapes.	handshape stable. movement @ arm. curved 5, mushroom cap. taps stem twice.
+093		MEANING			meaning				2,5-handshapes.	handshape stable. movement @ wrist. poke palm parallel to floor, then poke perpendicular.
+094		WITH			with				a-handshapes.	handshape stable. movement @ arm. 2nd bones of hand all meet except for thumb.
+095		WITHOUT			without, lacking	a>5-handshapes.	handshape change. change from WITH to loose 5 shapes kinda facing the ground.
+096		SERIES			series				u,5-handshapes.	handshape stable. movement @ arm. tx as 2D objects. u curves + flies from thumb to pinkie.
+097		LIST			list on page		b-handshapes.	handshape stable. movement @ arm. bent b moves down open b like hitting each item on list.
+098		TO-LIST			make a list			o,b-handshapes.	handshape stable. movement @ arm. bent o jabs open b + moves down like hitting each item.
+099		wine			wine				w-handshape.	handshape stable. movement @ arm. pinkie + thumb touch lower cheek. bike backwards.
+100		beer			beer				b-handshape.	handshape stable. movement @ arm. WINE but w/ b.
+101		vodka			vodka				v-handshape.	handshape stable. movement @ arm. index finger poke neck twice.
+102		meat			mammal meat			f,5-handshapes.	handshape stable. movement @ arm.
 
 
 1.2 1:41
