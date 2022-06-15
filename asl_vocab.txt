@@ -166,16 +166,17 @@ OTHER NOTES
 146		CAKE			cake				c,5-handshapes.	handshape stable. movement @ arm. loose c pulls up. shape of cake. nondom palm up.
 147		ICE CREAM		ice cream :D		s-handshape.	handshape stable. movement @ arm. near chin, move down twice. palm facing me. cone.
 148		CUPCAKE			cupcake				c,5-handshapes.	handshape stable. movement @ arm. CAKE, but the dom makes a smaller shape.
+149		THIRSTY			thirsty				d-handshape.	handshape stable. movement @ wrist. finger points at + slides down neck.
+150
 
 
-
-handshape,
-facial expression
-death
+GOTTA ADD
+handshape facial expression
+death gun
 cool
 oh i see
 old young age
-
+champ fine disgusting other descriptors
 
 IGNORE
 1.2 1:41
