@@ -9,13 +9,13 @@ KEY
 nm::	non-manual
 nondom	non-dominant
 dom		dominant
-#		lexicalized
+#		lexicalized or fingerspell.
 
 OTHER NOTES
 * once for verb, twice for noun
 
 
-#		Morphemes		English Words		Description
+#		Morphemes		Words				Description
 
 001		NO				no					3-handshape.	handshape change. fingertips touch.
 002		YES				yes, affirmative	s-handshape.	handshape stable. movement @ wrist like nodding. nm::nod_head.
@@ -119,8 +119,8 @@ OTHER NOTES
 100		BEER			beer				b-handshape.	handshape stable. movement @ arm. WINE but w/ b.
 101		VODKA			vodka				v-handshape.	handshape stable. movement @ arm. index finger poke neck twice.
 102		MEAT			mammal meat			f,5-handshapes.	handshape stable. movement @ arm. thumb + index grip between same + shake a lil.
-103		#BEEF			cow meat, beef		fingerspell.	handshape change. B-E-E-F. possible nm::tough_face.
-104		#JOB			job					fingerspell.	handshape change. J-O-B. b should face you instead.
+103		BEEF			cow meat, beef		fingerspell.	handshape change. #BEEF. possible nm::tough_face.
+104		JOB				job					fingerspell.	handshape change. #JOB. b should face you instead.
 105		WORK			work, employment	s-handshapes.	handshape stable. movement @ arm. palm face down, hit wrist a couple of times.
 106		FINISH			finished, done		5-handshapes.	handshape stable. movement @ wrist. palm face you, twist 1 or 2 times, now palm face out.
 107		HUNGRY			hungry				c-handshape.	handshape stable. movement @ arm. palm face you, travels down center of body.
@@ -129,8 +129,41 @@ OTHER NOTES
 110		COOKIE			cookie				c,5-handshapes.	handshape stable. movement @ arm. loose c, closed 5 counterclockwise. lift up. cut out.
 111		MIX				mix, blend, combo	e-handshapes.	handshape stable. movement @ arm. loose e, move counterclockwise but asymmetrically. whir.
 112		TURKEY			turkey				q-handshape.	handshape stable. movement @ wrist. palm down hang off chin like wattle. shake.
-113
+113		BIRD			bird, avian			l>20-handshape.	handshape change. at mouth. like a beak open + close multiple time.
+114		CHICKEN			chicken				l>20,5-handsh.	handshape change. BIRD, but optionally can bring beak down to palm face up.
+115		HAMBURGER		hamburger			5-handshapes.	handshape stable. movement @ wrist. tight 5, dom top, squish a patty. now nondom on top.
+116		GROUND MEAT		ground meat			many handsh.	handshape change. #GROUND^MEAT^MIX or #GROUND^#MEAT.
+117		BACON			bacon				3-handshapes.	handshape change. fingers not thumb tight, palm down, flutter away twice 1D.
+118		HOTDOG1			hot dog, sausage	c>s-handshapes.	handshape change. c to s, move apart, c to s again. 4 linked sausages.
+119		HOTDOG2			hot dog, sausage	d,c-handshapes.	handshape stable. movement @ wrist. fingers inside bun, tap couple times.
+120		FISH			fish				5-handshape.	handshape stable. movement @ all. tight 5. wiggle forward. fish thru water.
+121		SALMON			salmon				many handsh.	handshape change. #SALMON^FISH.
+122		TUNA			tuna				many handsh.	handshape change. #TUNA^FISH.
+123		SHRIMP1			shrimp				i-handshape.	handshape change. i bends + unbends. moves straight thru plane of view.
+124		SHRIMP2			shrimp				d>x-handshape.	handshape change. d to x, repeated. moves straight thru plane of view.
+125		CRAB			crab				20-handshapes.	handshape change. open close like crab claws.
+126		LOBSTER			lobster				5>o-handshapes.	handshape change. tight 5 to bent o like lobster claws.
+127		OYSTER			oyster				5-handshapes.	handshape stable. movement @ wrist. clawed 5. open close like oyster shell.
+128		COOK			cook				5-handshapes.	handshape stable. movement @ wrist. tight 5 palms touch, then dom flip over. pancake flip.
+128		POT				cooking pot			5>a-handshapes.	handshape change. tight 5 set down hold pot. between a + x, pot handle move back + forth.
+129		COVER-POT		cover pot			s,5-handshapes.	handshape stable. movement @ arm. palms facing each other then curve palm down on pot top.
+130		PLATE			plate				l-handshapes.	handshape stable. movement @ arm. palms face down drop a lil. can start with EAT.
+131		PAN				frying pan			l>a-handshapes.	handshape change. COOK then PLATE then move pan handle like POT.
+132		PIE				pie					5-handshapes.	handshape stable. movement @ arm. cut a triangle slice out of nondom palm facing up.
+133		MAKE			make, create		s-handshapes.	handshape stable. movement @ wrist. on top of each other. twist twice, keep contact.
+134		BLENDER			blender				l,5-handshapes.	handshape stable. movement @ all. palm face down, then twist to face you, go up. whir.
+135		GRATE			grate, shred		a,5-handshapes.	handshape stable. movement @ arm. palms face each other, up down up down grating.
+136		CUP				can, container		c,5-handshapes.	handshape stable. movement @ arm. place cup on nondom palm facing up.
+137		CAN-OPEN		can opener			c>a,5>c-handsh.	handshape change. CAN then shake wrist counterclockwise cut open can. then open can.
+138		PEPPER			pepper seasoning	f-handshape.	handshape stable. movement @ wrist. palm face down. bob couple of times, sprinkle pepper.
+139		SALT			salt seasoning		u-handshapes.	handshape change. palms face down. fingers tap alternatively on nondom fingers, create x.
+140		SUGAR			sugar seasoning		3-handshape.	handshape change. tight 3. fingers bend at chin twice.
+141
+
+handshape,
+facial expression
 
 
+IGNORE
 1.2 1:41
 2.2 2:20
