@@ -157,11 +157,24 @@ OTHER NOTES
 137		CAN-OPEN		can opener			c>a,5>c-handsh.	handshape change. CAN then shake wrist counterclockwise cut open can. then open can.
 138		PEPPER			pepper seasoning	f-handshape.	handshape stable. movement @ wrist. palm face down. bob couple of times, sprinkle pepper.
 139		SALT			salt seasoning		u-handshapes.	handshape change. palms face down. fingers tap alternatively on nondom fingers, create x.
-140		SUGAR			sugar seasoning		3-handshape.	handshape change. tight 3. fingers bend at chin twice.
-141
+140		SUGAR			sugar seasoning		3>a-handshape.	handshape change. tight 3. fingers bend at chin twice.
+141		SAUCE			sauce				a,5-handshapes.	handshape stable. movement @ arm. circle nondom palm up counterclockwise. squirt sauce.
+142		KETCHUP			ketchup seasoning	5,s-handshapes.	handshape stable. movement @ arm. thump palm aginst closed fist twice. get ketchup out.
+143		SWEET			sweet taste, cute	5>a-handshape.	handshape change. tight 5. fingers bend at chin once.
+144		DESSERT			dessert				d-handshapes.	handshape stable. movement @ arm. unselected fingers bent out. palms facing. tap twice.
+145		CHOCOLATE		chocolate			c,5-handshapes.	handshape stable. movement @ arm. c moves counterclockwise. nondom palm face down.
+146		CAKE			cake				c,5-handshapes.	handshape stable. movement @ arm. loose c pulls up. shape of cake. nondom palm up.
+147		ICE CREAM		ice cream :D		s-handshape.	handshape stable. movement @ arm. near chin, move down twice. palm facing me. cone.
+148		CUPCAKE			cupcake				c,5-handshapes.	handshape stable. movement @ arm. CAKE, but the dom makes a smaller shape.
+
+
 
 handshape,
 facial expression
+death
+cool
+oh i see
+old young age
 
 
 IGNORE
