@@ -5,10 +5,11 @@ Started 2022-05-25. Last edited 2022-06-14.
 Excludes letters, numbers, and indexing. Sources: mostly SLC 1–2 + Lifeprint + Handspeak.
 
 KEY
-~x		non-manual morpheme
-nm		non-manual
+~		non-manual morpheme
+nm::	non-manual
 nondom	non-dominant
 dom		dominant
+#		lexicalized
 
 OTHER NOTES
 * once for verb, twice for noun
@@ -20,7 +21,7 @@ OTHER NOTES
 002		YES				yes, affirmative	s-handshape.	handshape stable. movement @ wrist like nodding. nm::nod_head.
 003		VOICE			voice, oral			v-handshape.	handshape stable. movement @ all from throat outward.
 004		RIGHT			right, correct		1-handshapes.	handshape stable. movement @ arm. hand falls onto other hand.
-005		WRONG			wrong				y-handshape.	handshape stable. movement @ arm to chin. nm:_shake_head.
+005		WRONG			wrong				y-handshape.	handshape stable. movement @ arm to chin. nm::shake_head.
 006		GESTURE			gesture, sign		5-handshapes.	handshape stable. movement @ arms circling forward asynchronously like bike.
 007		SHAPE			shape, statue		a-handshapes.	handshape stable. movement @ arms. use thumbtips to draw hourglass.
 008		CIRCLE			circle, round		1-handshapes.	handshape stable. movement @ arms. use indextips to draw circle.
@@ -40,7 +41,7 @@ OTHER NOTES
 022		BLACK			black (color)		1-handshape.	handshape stable. movement @ arm. from far to near side of brow.
 023		SILVER			silver				s-handshape.	handshape stable. movement @ all. start from ear + shake down. pepper.
 024		GOLD			gold				y-handshape.	handshape stable. movement @ all. start from ear + shake down. yellow flakes.
-025		HOT				hot, heat			5-handshape.	handshape stable. movement @ all. start from mouth + slide down. remove hot thing in mouth.
+025		HOT				hot, heat			c-handshape.	handshape stable. movement @ all. start from mouth + slide down. remove hot thing in mouth.
 026		HELLO			hello, hi			b-handshape.	handshape stable. movement @ arm. thumb away. move from head away.
 027		GOODBYE			goodbye, bye		5-handshape.	handshape stable. movement @ arm. quick small shakes.
 028		NAME			name				h-handshapes.	handshape stable. movement @ wrist. fingers fall on other fingers twice. x.
@@ -114,10 +115,21 @@ OTHER NOTES
 096		SERIES			series				u,5-handshapes.	handshape stable. movement @ arm. tx as 2D objects. u curves + flies from thumb to pinkie.
 097		LIST			list on page		b-handshapes.	handshape stable. movement @ arm. bent b moves down open b like hitting each item on list.
 098		TO-LIST			make a list			o,b-handshapes.	handshape stable. movement @ arm. bent o jabs open b + moves down like hitting each item.
-099		wine			wine				w-handshape.	handshape stable. movement @ arm. pinkie + thumb touch lower cheek. bike backwards.
-100		beer			beer				b-handshape.	handshape stable. movement @ arm. WINE but w/ b.
-101		vodka			vodka				v-handshape.	handshape stable. movement @ arm. index finger poke neck twice.
-102		meat			mammal meat			f,5-handshapes.	handshape stable. movement @ arm.
+099		WINE			wine				w-handshape.	handshape stable. movement @ arm. pinkie + thumb touch lower cheek. bike backwards.
+100		BEER			beer				b-handshape.	handshape stable. movement @ arm. WINE but w/ b.
+101		VODKA			vodka				v-handshape.	handshape stable. movement @ arm. index finger poke neck twice.
+102		MEAT			mammal meat			f,5-handshapes.	handshape stable. movement @ arm. thumb + index grip between same + shake a lil.
+103		#BEEF			cow meat, beef		fingerspell.	handshape change. B-E-E-F. possible nm::tough_face.
+104		#JOB			job					fingerspell.	handshape change. J-O-B. b should face you instead.
+105		WORK			work, employment	s-handshapes.	handshape stable. movement @ arm. palm face down, hit wrist a couple of times.
+106		FINISH			finished, done		5-handshapes.	handshape stable. movement @ wrist. palm face you, twist 1 or 2 times, now palm face out.
+107		HUNGRY			hungry				c-handshape.	handshape stable. movement @ arm. palm face you, travels down center of body.
+108		HORNY			horny				c-handshape.	handshape stable. movement @ arm. HUNGRY but do it multiple times.
+109		WISH			wish, desire		c-handshape.	handshape stable. movement @ arm. literally the same as HUNGRY.
+110		COOKIE			cookie				c,5-handshapes.	handshape stable. movement @ arm. loose c, closed 5 counterclockwise. lift up. cut out.
+111		MIX				mix, blend, combo	e-handshapes.	handshape stable. movement @ arm. loose e, move counterclockwise but asymmetrically. whir.
+112		TURKEY			turkey				q-handshape.	handshape stable. movement @ wrist. palm down hang off chin like wattle. shake.
+113
 
 
 1.2 1:41
