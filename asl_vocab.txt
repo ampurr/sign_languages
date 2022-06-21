@@ -1,6 +1,6 @@
 asl_vocab
 
-Started 2022-05-25. Last edited 2022-06-14.
+Started 2022-05-25. Last edited 2022-06-21.
 
 Excludes letters, numbers, and indexing. Sources: mostly SLC 1–2 + Lifeprint + Handspeak.
 
@@ -137,12 +137,12 @@ OTHER NOTES
 118		HOTDOG1			hot dog, sausage	c>s-handshapes.	handshape change. c to s, move apart, c to s again. 4 linked sausages.
 119		HOTDOG2			hot dog, sausage	d,c-handshapes.	handshape stable. movement @ wrist. fingers inside bun, tap couple times.
 120		FISH			fish				5-handshape.	handshape stable. movement @ all. tight 5. wiggle forward. fish thru water.
-121		SALMON			salmon				many handsh.	handshape change. #SALMON^FISH.
+121		SALMON			salmon				x-handshape.	handshape stable. palm on chin. regional?
 122		TUNA			tuna				many handsh.	handshape change. #TUNA^FISH.
 123		SHRIMP1			shrimp				i-handshape.	handshape change. i bends + unbends. moves straight thru plane of view.
 124		SHRIMP2			shrimp				d>x-handshape.	handshape change. d to x, repeated. moves straight thru plane of view.
-125		CRAB			crab				20-handshapes.	handshape change. open close like crab claws.
-126		LOBSTER			lobster				5>o-handshapes.	handshape change. tight 5 to bent o like lobster claws.
+125		CRAB			crab				20-handshapes.	handshape change. open close like crab claws. switch w/ LOBSTER in nyc.
+126		LOBSTER			lobster				5>o-handshapes.	handshape change. tight 5 to bent o like lobster claws. switch w/ CRAB in nyc.
 127		OYSTER			oyster				5-handshapes.	handshape stable. movement @ wrist. clawed 5. open close like oyster shell.
 128		COOK			cook				5-handshapes.	handshape stable. movement @ wrist. tight 5 palms touch, then dom flip over. pancake flip.
 128		POT				cooking pot			5>a-handshapes.	handshape change. tight 5 set down hold pot. between a + x, pot handle move back + forth.
@@ -167,7 +167,30 @@ OTHER NOTES
 147		ICE CREAM		ice cream :D		s-handshape.	handshape stable. movement @ arm. near chin, move down twice. palm facing me. cone.
 148		CUPCAKE			cupcake				c,5-handshapes.	handshape stable. movement @ arm. CAKE, but the dom makes a smaller shape.
 149		THIRSTY			thirsty				d-handshape.	handshape stable. movement @ wrist. finger points at + slides down neck.
-150
+150		OPEN			open (abstract)		b-handshapes.	handshape stable. movement @ all. cellar door closed then both open. business open etc.
+151		CLOSE			close (abstract)	b-handshapes.	handshape stable. movement @ all. cellar door opened then close. business closed etc.
+152		PULL			pull				s-handshapes.	handshape stable. movement @ arm. mimic one good pull, hands get closer to you.
+153		FALL-OFF		fall off			classifiers.	handshape stable. movement @ arm. object or person tilts and arcs to the left.
+154		MIND-NOT		don't mind			d-handshape.	handshape stable. movement @ all. touch nose then point at person. nm::shake_head.
+155		MIND			mind, care			5-handshape.	handshape stable. movement @ wrist. palm face down then twist counterclockwise mostly up.
+156		SICK			sick, ill			25-handshapes.	handshape stable. movement @ arm. middle fingers touch forehead + chest.
+157		SAD				sad, unhappy		5-handshapes.	handshape stable. movement @ arm. down in face front. nm::sad_face.
+158		DEPRESSED		depressed			25-handshapes.	handshape stable. movement @ arm. move down chest. nm::sad_face.
+159		TIME			time				x,s-handshapes.	
+
+
+
+DAYS OF THE WK
+* palm facing you
+* circle counterclockwise
+
+MONDAY		m-handshape.
+TUESDAY		t-handshape.
+WEDNESDAY	w-handshape.
+THURSDAY	t>h-handshapes + no circle. alternatively, h-handshape.
+FRIDAY		f-handshape.
+SATURDAY	s-handshape.
+SUNDAY		5-handshapes. push out, pull in + down, push out again.
 
 
 GOTTA ADD
