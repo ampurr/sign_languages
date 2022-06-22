@@ -188,7 +188,11 @@ OTHER NOTES
 168		SCHEDULE		schedule			4,5-handshapes.	handshape stable. movement @ all. dom swipe down then left. nondom palm face me.
 169		HAVE			possess, own		b-handshapes.	handshape stable. movement @ arm. bent open b touch upper chest near arms.
 170		KNOW			know				b-handshape.	handshape stable. movement @ arm. bent open b taps forehead.
-171		MOVE			move positions		o-handshapes.	handshape stable. 
+171		MOVE			move positions		o-handshapes.	handshape stable. movement @ arm. down then arc to the left, moving things.
+172		WANT			want, desire		5-handshapes.	handshape change. palms up. flat 5 changes to clawed 5. pull nearer body.
+173		BETTER			better, improve		5>a-handshape.	handshape change. front of chin. closed 5 to a. move away from face.
+
+
 
 166		EVERY-WEEK
 163		O'CLOCK			o'clock				many handsh.	
