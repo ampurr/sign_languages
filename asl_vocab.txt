@@ -176,7 +176,17 @@ OTHER NOTES
 156		SICK			sick, ill			25-handshapes.	handshape stable. movement @ arm. middle fingers touch forehead + chest.
 157		SAD				sad, unhappy		5-handshapes.	handshape stable. movement @ arm. down in face front. nm::sad_face.
 158		DEPRESSED		depressed			25-handshapes.	handshape stable. movement @ arm. move down chest. nm::sad_face.
-159		TIME			time				x,s-handshapes.	
+159		TIME			time				x,s-handshapes.	handshape stable. movement @ wrist. tap wrist twice.
+160		MINUTE			minute				d,5-handshapes.	handshape stable. movement @ wrist. palms facing. minute hand moves forward one tic.
+161		SECOND			second (time)		d,5-handshapes.	handshape stable. movement @ wrist. MINUTE but faster + briefer.
+162		HOUR			hour				d,5-handshapes.	handshape stable. movement @ arm. circle counterclockwise once.
+163		DAY				day, b/t suns		d,5-handshapes.	handshape stable. movement @ arm. dom palm faces me, nondom arm face down like horizon.
+164		WEEK			week				d,5-handshapes.	handshape stable. movement @ arm. dom palm face away, swipe from nondom arm to tips.
+165		MONTH			month				d-handshapes.	handshape stable. movement @ arm. dom face me, nondom face left. move down.
+166
+
+
+163		O'CLOCK			o'clock				many handsh.	
 
 
 
