@@ -191,7 +191,9 @@ OTHER NOTES
 171		MOVE			move positions		o-handshapes.	handshape stable. movement @ arm. down then arc to the left, moving things.
 172		WANT			want, desire		5-handshapes.	handshape change. palms up. flat 5 changes to clawed 5. pull nearer body.
 173		BETTER			better, improve		5>a-handshape.	handshape change. front of chin. closed 5 to a. move away from face.
-
+174		RESTAURANT		restaurant			r-handshape.	handshape stable. movement @ all. move down sides of face near mouth.
+175		FINE			fine, okay			5-handshape.	handshape stable. movement @ arm. tap middle of chest twice w/ thumb.
+176		YEAR			year				s-handshapes.	handshape stable. dom fist circles forward then lands on top of nondom fist.
 
 
 166		EVERY-WEEK
