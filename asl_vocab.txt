@@ -209,7 +209,16 @@ OTHER NOTES
 189		AUTUMN			autumn, fall		4,5-handshape.	handshape stable. movement @ arm. brush forearm to elbow with index. leaning tree.
 190		WINTER			winter				s-handshapes.	handshape stable. movement @ arm. same as COLD. can also initialize w/ w.
 191		KISSFIST		love (not person)	s-handshape.	handshape stable. movement @ arm. bring fist to mouth then move out.
-
+192		NEW				new, novel			b-handshapes.	handshape stable. movement @ arm. both palms up. lil curved, brush up.
+193		FAST			fast, quick			l>x-handshapes.	handshape change. pull back sideways fast. keep thumb out when change.
+194		VERY-FAST		very fast			5>s-handshapes.	handshape change. pull back sideways fast.
+195		MOVIE			movie, film			5-handshapes.	handshape stable. movement @ wrist. base of palms perpendicular. wag dom back + forth.
+196		LIE				lie, falsehood		b-handshape.	handshape stable. palm down, brush front of chin once. twice for plural or tendency.
+197		THEATER			theater				a-handshapes.	handshape stable. front of chest rotate flat inward async.
+198		BOWLING			bowling				3-handshape.	handshape stable. palm faces away from other. move forward bowl, palm faces floor. twice.
+199		FUN				fun					u-handshapes.	handshape stable. palms face down. touch nose then touch nondom. make x.
+200		SOMETIMES		sometimes			d,5-handshapes.	handshape stable. finger cycles counterclockwise tangent to palm.
+201		OCCASIONALLY	occasionally		
 
 
 
@@ -233,7 +242,12 @@ cool
 oh i see
 old young age
 champ fine disgusting other descriptors
+friend smart
+shave later wait heartbeat
+train go sorry / true business
+look back
 
 IGNORE
 1.2 1:41
 2.2 2:20
+2.5 3:15
