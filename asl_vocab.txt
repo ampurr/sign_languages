@@ -1,6 +1,6 @@
 asl_vocab
 
-Started 2022-05-25. Last edited 2022-06-21.
+Started 2022-05-25. Last edited 2022-06-28.
 
 Excludes letters, numbers, and indexing. Sources: mostly SLC 1–2 + Lifeprint + Handspeak.
 
@@ -45,8 +45,8 @@ OTHER NOTES
 026		HELLO			hello, hi			b-handshape.	handshape stable. movement @ arm. thumb away. move from head away.
 027		GOODBYE			goodbye, bye		5-handshape.	handshape stable. movement @ arm. quick small shakes.
 028		NAME			name				h-handshapes.	handshape stable. movement @ wrist. fingers fall on other fingers twice. x.
-029		LEARN-PERSON	student				5,b-handshapes.	handshape change. movement @ arm. fingertips touch, pull up from nondom, arch down. trash.
-030		TEACH-PERSON	teacher, prof		o>5-handshape.	handshape change. movement @ arm. flat o forward then drop to closed 5. seeing you.
+029		LEARN-ER		student				5,b-handshapes.	handshape change. movement @ arm. fingertips touch, pull up from nondom, arch down. trash.
+030		TEACH-ER		teacher, prof		o>5-handshape.	handshape change. movement @ arm. flat o forward then drop to closed 5. seeing you.
 031		NICE, CLEAN		nice, clean			5-handshapes.	handshape stable. movement @ arm. fingers tight. brush from palm to fingers.
 032		MEET-YOU		meet you			1-handshapes.	handshape stable. movement @ arm. nondom closer to other. dom moves towards nondom.
 033		UNDERSTAND		understand			s>d-handshape.	handshape change. next to head. flick. nm::head_nod if desired.
@@ -194,10 +194,22 @@ OTHER NOTES
 174		RESTAURANT		restaurant			r-handshape.	handshape stable. movement @ all. move down sides of face near mouth.
 175		FINE			fine, okay			5-handshape.	handshape stable. movement @ arm. tap middle of chest twice w/ thumb.
 176		YEAR			year				s-handshapes.	handshape stable. dom fist circles forward then lands on top of nondom fist.
+177		O'CLOCK			o'clock				many handsh.	handshape change. 1–9, sign off palm down fist. 10–12, TIME^number.
+178		EVERY-WEEK		every-week			many handsh.	handshape stable. movement @ arm. sign day of wk handshape, then move down calendar.
+179		WEATHER			weather				5-handshapes.	handshape stable. movement @ arm. wavy motions downward.
+180		SUN				sun					o>5-handshape.	handshape change. counterclockwise wrist twist. slight downward open.
+181		SUNLIGHT		sunlight			o>5-handshape.	handshape change. SUN but greater downward open movement.
+182		CLOUD			cloud				5-handshapes.	handshape stable. movement @ arm. claw 5 palms facing bike ride. moves across sky.
+183		RAIN			rain				5-handshapes.	handshape stable. movement @ wrist. palms face other then face down. dropping rain.
+184		WIND			wind, breeze		5-handshapes.	handshape stable. movement @ all. palms face each other, move together in one direction.
+185		SNOW			snow				5-handshapes.	handshape change. wiggle fingers as you move down. modify movement based on details.
+186		SEASONS			seasons				s,5-handshapes.	handshape stable. bike forward full circle then contact top of palm.
+187		SPRING			spring				o>5,b-handsh.	handshape change. bloom out twice inside of slightly open b.
+188		SUMMER			summer				d>x-handshape.	handshape change. move across forehead twice. palm down.
+189		AUTUMN			autumn, fall		4,5-handshape.	handshape stable. movement @ arm. brush forearm to elbow with index. leaning tree.
+190		WINTER			winter				s-handshapes.	handshape stable. movement @ arm. same as COLD. can also initialize w/ w.
+191		KISSFIST		love (not person)	s-handshape.	handshape stable. movement @ arm. bring fist to mouth then move out.
 
-
-166		EVERY-WEEK
-163		O'CLOCK			o'clock				many handsh.	
 
 
 
