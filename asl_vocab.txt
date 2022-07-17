@@ -219,6 +219,8 @@ OTHER NOTES
 199		FUN				fun					u-handshapes.	handshape stable. palms face down. touch nose then touch nondom. make x.
 200		SOMETIMES		sometimes			d,5-handshapes.	handshape stable. finger cycles counterclockwise tangent to palm.
 201		OCCASIONALLY	occasionally		
+202     FROM            from                1>x,1-handsh.   handshape change. palm face you, nondom side. draw back + change like pull.
+203     DESCRIBE        describe, explain   f-handshapes.   handshape stable. movement @ arm. slide hands back + forth alternatively.
 
 
 
@@ -246,6 +248,8 @@ friend smart
 shave later wait heartbeat
 train go sorry / true business
 look back
+jump only exactly
+go get
 
 IGNORE
 1.2 1:41
