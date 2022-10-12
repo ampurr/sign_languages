@@ -1,25 +1,81 @@
 ---
-title: "Notes on ASL"
+title: "Some Notes on ASL"
 format: html
+toc: true
+toc-location: left
+toc-title: "Stuff"
+linkcolor: "#000000"
+mainfont: Vollkorn
+monofont: Fira Code
+reference-location: margin
+cap-location: margin
+callout-appearance: simple
 ---
 
-## Quarto
+:::{.callout-warning}
+## Heads Up
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+If you are not me, you should not be here! Assume that everything is here is wrong and that I don't know what I'm writing about, cuz I don't.
+:::
 
-## Running Code
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+## Intro
 
-```{r}
-1 + 1
-```
+I like ASL a lot but I'm not very good at it. I'm hoping that writing document will help me learn it better.
 
-You can add options to executable code like this 
+Originally this was a vocab list---I kept forgetting words. Unfortunately I'm slow and it would take me literal days to transcribe the words and their structure, so I stopped doing that. I also read a bunch of books about ASL and wanted to keep track. And I wanted to be able to easily access the document on multiple devices. So: website!
 
-```{r}
-#| echo: false
-2 * 2
-```
+I make a lot of mistakes and I'm wrong a lot, so hopefully this will help me keep track of those, too.
 
-The `echo: false` option disables the printing of code (only output is displayed).
+:::{.callout-note collapse=true}
+## Changelog
+
+**2022-10-12**: Finally started putting the site together (as a form of procrastination).
+
+**2022-10-02**: Started `.qmd` document.
+
+**2022-07-17**: The 203rd word was added to the vocab list. Stopped updating after that.
+
+**2022-05-25**: Started `.txt` vocab list!
+:::
+
+## Really Cool Things About ASL
+
+1. The 3D structure! Verbal language is 1D + time---it's linear and can only move in one dimension. You can show things in 3D space in ASL which I really like. I'm not great at it but hopefully I'll get better at it.^[[Dragon](https://thatdeafguy.com/2012-10-18/).]
+2.
+
+
+## Conjunctions
+
+Remember that a conjunction binds two propositions together. ASL has conjunctions similar to English's and even more. In ASL, when signing a conjunction, raise yr eyebrows.
+
+Jolanta Lapiak [has written about conjunctions](https://www.handspeak.com/learn/index.php?id=35).
+
+### In Class
+
+In Level 4.4 we learned the following conjunctions:
+
+- WRONG: suddenly, without warning
+- HAPPEN: just learned, just like that
+- DISCOVER: find out, realized
+- FRUSTRATED: being stopped from
+- HIT: unexpectedly, coincidence
+
+Not sure how to best learn these. I'm worried I'll forget them. And some, like WRONG and HAPPEN, seem kinda similar.
+
+[test]{.smallcaps}
+
+## Receptive Skills
+
+My weak point! Need to practice this a lot lot more than I'm doing now.
+
+- Bill Vicar [has some tips on how to get receptive practice.](https://www.lifeprint.com/asl101/topics/receptive-asl-skills-practice.htm)
+
+## ASL-specific Words
+
+ASL words and concepts that don't easily translate to other languages.
+
+- Rogan Shannon and Ren Putz [talk about ASL slang and exclusive words](https://www.youtube.com/watch?v=K2iRwQJh9dk).
+
+
+## Sources
