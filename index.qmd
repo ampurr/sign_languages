@@ -1,11 +1,13 @@
 ---
 title: "Some Notes on ASL"
 format: html
+css: style_changes.css
+from: markdown+emoji
 toc: true
 toc-location: left
 toc-title: "Stuff"
 linkcolor: "#000000"
-mainfont: Vollkorn
+mainfont: FiraGo
 monofont: Fira Code
 reference-location: margin
 cap-location: margin
@@ -18,10 +20,9 @@ callout-appearance: simple
 If you are not me, you should not be here! Assume that everything is here is wrong and that I don't know what I'm writing about, cuz I don't.
 :::
 
-
 ## Intro
 
-I like ASL a lot but I'm not very good at it. I'm hoping that writing document will help me learn it better.
+I like ASL a lot but I'm not very good at it. I'm hoping that writing this document will help me learn it better.
 
 Originally this was a vocab list---I kept forgetting words. Unfortunately I'm slow and it would take me literal days to transcribe the words and their structure, so I stopped doing that. I also read a bunch of books about ASL and wanted to keep track. And I wanted to be able to easily access the document on multiple devices. So: website!
 
@@ -29,6 +30,8 @@ I make a lot of mistakes and I'm wrong a lot, so hopefully this will help me kee
 
 :::{.callout-note collapse=true}
 ## Changelog
+
+**2022-10-18**: Added sources.
 
 **2022-10-12**: Finally started putting the site together (as a form of procrastination).
 
@@ -41,8 +44,66 @@ I make a lot of mistakes and I'm wrong a lot, so hopefully this will help me kee
 
 ## Really Cool Things About ASL
 
-1. The 3D structure! Verbal language is 1D + time---it's linear and can only move in one dimension. You can show things in 3D space in ASL which I really like. I'm not great at it but hopefully I'll get better at it.^[[Dragon](https://thatdeafguy.com/2012-10-18/).]
+1. The 3D structure! Verbal language is 1D + time---it's linear and can only move in one dimension. You can show things in 3D space in ASL which I really like. I'm not great at it but hopefully I'll get better at it.^[[Dragon](https://thatdeafguy.com/2012-10-18/). :dragon:]
 2.
+
+
+## Sources
+
+Here are some sources that I've been lucky to be taught by.
+
+### Teachers
+
+- Jamil Haque. Levels 1--2. Great teacher! Likes basketball.
+- Robert J.^[Doesn't have a bio on the website. Why?] Levels 3--4. Amazing teacher! Likes the wilderness and wolves. Has broken a distressing number of bones.
+
+### Books that Teach
+
+- _American Sign Language: A Teacher's Resource
+Text On Grammar and Culture_. By Charlotte Baker and Dennis Cokely. Published 1980.
+  + Probably my favorite ASL book so far.
+  + From 1980, so it's old. I think most of the stuff is still good. But I'm not qualified to say.
+  + I think it was only in 1960 that ASL was recognized as a natural language, so there's a lot of "we don't understand this yet." I wish there were an updated version.
+- _Sign-Me-Fine_. By Laura Greene and Eva Barash Dicker. Published 1990.
+  + ASL grammar book for kids middle school--age and older.
+  + Not very good, unfortunately. Don't think I understand ASL grammar more after reading this.
+
+### Dictionaries
+
+- [Handspeak](https://www.handspeak.com/). By Jolanta Lapiak.
+  + Great ASL-English dictionary---arguably the best.
+  + Has tutorials on grammar and conjunctions and stuff.
+- [ASL University](https://www.lifeprint.com/), also known as Lifeprint. By William G. Vicars.
+  + ASL-English dictionary with explanations of etymology and suggestions for how to memorize signs. Breaks the handshapes down which I find super useful.
+  + Offers an entire ASL curriculum, which is incredible.
+  + I think this was one of the first online ASL resources ever. That's really cool.
+- _The Gallaudet Dictionary of American Sign Language_. By GU editors and illustrators. Published 2005.
+  + Not an exceptional dictionary. Mostly cuz it's so hard to search and pics fail to capture what videos can.
+  + Probably best used to remind me what signs look like. But definitely not for learning.
+  + The chapter on classifiers is nice, though.
+- _The Gallaudet Children‘s Dictionary of American Sign Language_. By GU editors and illustrators. Published 2014.
+  + Looks similar to the adult dictionary, but it's more colorful, which I like. :rainbow:
+  + Don't have access to it and haven't read it.
+  + Has a [companion website](https://gcdasl.com/).
+
+### Linguistics
+
+- _Linguistics of American Sign Language: An Introduction 3e_. By Clayton Valli and Ceil Lucas. Published 2000.
+  + On the 5th edition (2011) now, but I've only read the 3rd.
+  + 5e has a list of [Youtube videos](https://www.youtube.com/playlist?list=PLj06bPbAU0PqBHawkYzQR4AOQO9OInHWO) in lieu of a DVD.
+  
+### Other Sources
+
+- _Sign Languages of the World: A Comparative Handbook_. Edited by Julie Bakken Jepsen, Goedele De Clerck,
+Sam Lutalo-Kiingi, and William B. McGregor. Published 2015.
+  + An encyclopedia.
+  + I've only read the chapter on Inuit Uukturausingit (IUR or Inuit Sign Language).
+  + No chapter on Hawaii Sign Language, though it is mentioned.
+
+
+## Mistakes I've Made
+
+
 
 
 ## Conjunctions
@@ -65,6 +126,7 @@ Not sure how to best learn these. I'm worried I'll forget them. And some, like W
 
 [test]{.smallcaps}
 
+
 ## Receptive Skills
 
 My weak point! Need to practice this a lot lot more than I'm doing now.
@@ -78,4 +140,21 @@ ASL words and concepts that don't easily translate to other languages.
 - Rogan Shannon and Ren Putz [talk about ASL slang and exclusive words](https://www.youtube.com/watch?v=K2iRwQJh9dk).
 
 
-## Sources
+## Appendix: HSL
+
+Hawaii Sign Language (HSL), or more properly Hawaiʻi Sign Language, is a dying sign language. It was revealed as a natural language only in 2013.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
