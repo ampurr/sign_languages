@@ -50,14 +50,14 @@ I make a lot of mistakes and I'm wrong a lot, so hopefully this will help me kee
 
 ## Sources
 
-Here are some sources that I've been lucky to be taught by.
+People I've learned from, books I've read, and resources on ASL and other sign languages.
 
 ### Teachers
 
 - Jamil Haque. Levels 1--2. Great teacher! Likes basketball.
 - Robert J.^[Doesn't have a bio on the website. Why?] Levels 3--4. Amazing teacher! Likes the wilderness and wolves. Has broken a distressing number of bones.
 
-### Books that Teach
+### Imaginary Teachers
 
 - _American Sign Language: A Teacher's Resource
 Text On Grammar and Culture_. By Charlotte Baker and Dennis Cokely. Published 1980.
@@ -67,6 +67,8 @@ Text On Grammar and Culture_. By Charlotte Baker and Dennis Cokely. Published 19
 - _Sign-Me-Fine_. By Laura Greene and Eva Barash Dicker. Published 1990.
   + ASL grammar book for kids middle school--age and older.
   + Not very good, unfortunately. Don't think I understand ASL grammar more after reading this.
+- The ASL App. By various Deaf signers.
+  + This helped me with the numbers. There's lots of other stuff but I haven't use this app for that.
 
 ### Dictionaries
 
@@ -88,12 +90,24 @@ Text On Grammar and Culture_. By Charlotte Baker and Dennis Cokely. Published 19
 
 ### Linguistics
 
+- _Sign Languages: Structures and Contexts_. By Joseph C. Hill, Diane C. Lillo-Martin and Sandra K. Wood. Published 2019.
+  + The first ASL book I read! Turns out that studying linguistics is not the best way to learn a language. 
+  + Really good book. Some important things I learned:
+    1. Sign languages (like all natural languages) consist of meaningless parts.
+    2. There is a specific set of meaningless parts and those parts combine only in certain ways.
+    3. In signs that use two hands, either the sign is symmetrical or the non-dominant hand is still. CAT and SALT are respective examples.
 - _Linguistics of American Sign Language: An Introduction 3e_. By Clayton Valli and Ceil Lucas. Published 2000.
+  + I tried to use this book to learn ASL grammar. Not successful.
   + On the 5th edition (2011) now, but I've only read the 3rd.
   + 5e has a list of [Youtube videos](https://www.youtube.com/playlist?list=PLj06bPbAU0PqBHawkYzQR4AOQO9OInHWO) in lieu of a DVD.
+- _Grammar, Gesture, and Meaning in American Sign Language_. By Scott K. Liddell. Published 2003.
+  + I haven't read too far into this book. It's a lil beyond my understanding. :sweat_smile:
   
 ### Other Sources
 
+- [ASL Signbank](https://aslsignbank.haskins.yale.edu/). By Julie A. Hochgesang and many others.
+  + A collection of signs organized by glosses for the purpose of annotating ASL videos.
+  + Not a learning resource.
 - _Sign Languages of the World: A Comparative Handbook_. Edited by Julie Bakken Jepsen, Goedele De Clerck,
 Sam Lutalo-Kiingi, and William B. McGregor. Published 2015.
   + An encyclopedia.
@@ -101,9 +115,13 @@ Sam Lutalo-Kiingi, and William B. McGregor. Published 2015.
   + No chapter on Hawaii Sign Language, though it is mentioned.
 
 
+## Videos to Learn From
+
+
 ## Mistakes I've Made
 
 
+## Notes Notes Notes
 
 
 ## Conjunctions
