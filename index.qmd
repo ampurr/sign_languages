@@ -17,7 +17,7 @@ callout-appearance: simple
 :::{.callout-warning}
 ## Heads Up
 
-If you are not me, you should not be here! Assume that everything is here is wrong and that I don't know what I'm writing about, cuz I don't.
+If you are not me, you should not be here! Assume that everything here is wrong and that I don't know what I'm writing about, cuz I don't.
 :::
 
 ## Intro
@@ -31,7 +31,7 @@ I make a lot of mistakes and I'm wrong a lot, so hopefully this will help me kee
 :::{.callout-note collapse=true}
 ## Changelog
 
-**2022-10-18**: Added sources.
+**2022-10-18**: Added sources and video links.
 
 **2022-10-12**: Finally started putting the site together (as a form of procrastination).
 
@@ -102,9 +102,18 @@ Text On Grammar and Culture_. By Charlotte Baker and Dennis Cokely. Published 19
   + 5e has a list of [Youtube videos](https://www.youtube.com/playlist?list=PLj06bPbAU0PqBHawkYzQR4AOQO9OInHWO) in lieu of a DVD.
 - _Grammar, Gesture, and Meaning in American Sign Language_. By Scott K. Liddell. Published 2003.
   + I haven't read too far into this book. It's a lil beyond my understanding. :sweat_smile:
+- [ASL-Lex](https://asl-lex.org/). By Naomi Caselli and others.
+  + 2,723 signs are visualized in a network graph. Closeness is correlated with phonological relatedness.^[Phonology is the study of the meaningless parts of a sign.] Node size is correlated with sign frequency.
+  + I wonder why phonological relatedness was used and not semantic relatedness, which seems more useful. Like, what's the use with putting "cat" and "bat" next to each other? Or HORNY and HUNGRY?
+    - Is it just easier?
+    - Their [2017 paper](https://link.springer.com/article/10.3758/s13428-016-0742-0) says the following:  
+    "For example, signs like PANTS, DRESS, and SKIRT are all fairly iconic and are produced with relatively common sub-lexical properties: the locations are all on the body (depicting where the clothes are worn), and recruit all four fingers fully extended."
   
 ### Other Sources
 
+- [Ryan Lepic's ASL Resources](https://sites.google.com/view/ryanlepic/about-me/asl-resources). By Ryan Lepic.
+  + Hearing professor at GU.
+  + The links to video resources seem helpful.
 - [ASL Signbank](https://aslsignbank.haskins.yale.edu/). By Julie A. Hochgesang and many others.
   + A collection of signs organized by glosses for the purpose of annotating ASL videos.
   + Not a learning resource.
@@ -117,20 +126,37 @@ Sam Lutalo-Kiingi, and William B. McGregor. Published 2015.
 
 ## Videos to Learn From
 
+### Stories
+
+- [ASL Stories Directory](https://deafchildren.org/knowledge-center/asl-resources/sign-language-stories/).
+  + ASL storytime! Stories from primary school books. :book:
+  
+### Naturalistic ASL
+
+- [ASL Nook](https://aslnook.com/) and [their YouTube channel](https://www.youtube.com/c/SheenaMcFeely/videos).
+  + Natural ASL, mostly by kids. Words in context. Some stories.
+
+### Pedagogy
+
+- [Gallaudet University's ASL Connect](https://gallaudet.edu/asl-connect/topics/)
+  + Very basic ASL organized by topic.
+  + Seems like it's ASL-pic and not ASL-English, which seems significant.
+
 
 ## Mistakes I've Made
 
 
 ## Notes Notes Notes
 
+Messy messy messy. Very subject to change and full of error.
 
-## Conjunctions
+### Conjunctions
 
 Remember that a conjunction binds two propositions together. ASL has conjunctions similar to English's and even more. In ASL, when signing a conjunction, raise yr eyebrows.
 
 Jolanta Lapiak [has written about conjunctions](https://www.handspeak.com/learn/index.php?id=35).
 
-### In Class
+#### In Class
 
 In Level 4.4 we learned the following conjunctions:
 
@@ -142,16 +168,13 @@ In Level 4.4 we learned the following conjunctions:
 
 Not sure how to best learn these. I'm worried I'll forget them. And some, like WRONG and HAPPEN, seem kinda similar.
 
-[test]{.smallcaps}
-
-
-## Receptive Skills
+### Receptive Skills
 
 My weak point! Need to practice this a lot lot more than I'm doing now.
 
 - Bill Vicar [has some tips on how to get receptive practice.](https://www.lifeprint.com/asl101/topics/receptive-asl-skills-practice.htm)
 
-## ASL-specific Words
+### ASL-specific Words
 
 ASL words and concepts that don't easily translate to other languages.
 
