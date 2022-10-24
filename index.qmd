@@ -9,8 +9,8 @@ toc-title: "Stuff"
 linkcolor: "#000000"
 mainfont: FiraGo
 monofont: Fira Code
-reference-location: margin
-citation-location: margin
+reference-location: section
+citation-location: section
 cap-location: margin
 callout-appearance: simple
 ---
