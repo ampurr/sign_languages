@@ -32,6 +32,8 @@ I make a lot of mistakes and I'm wrong a lot, so hopefully this will help me kee
 :::{.callout-note collapse=true}
 ## Changelog
 
+**2022-10-28**: 
+
 **2022-10-18**: Added sources and video links.
 
 **2022-10-12**: Finally started putting the site together (as a form of procrastination).
@@ -142,6 +144,7 @@ Sam Lutalo-Kiingi, and William B. McGregor. Published 2015.
 - [Sesame Street ASL songs](https://youtu.be/00xKA_UNEcY) on YouTube.
   + Some Sesame Street songs translated to ASL.
 - SignUp, the Chrome extension.
+  + Not very good, cuz the ASL video isn't well-synchronized with the movie.
   
 ### Natural-ish ASL
 
@@ -177,7 +180,7 @@ Sometimes I sign things incorrectly cuz I look at still pics instead of videos. 
 
 ## Notes Notes Notes
 
-Messy messy messy. Very subject to change and full of error.
+Super messy. Very subject to change + full of error.
 
 ### Conjunctions
 
@@ -215,7 +218,13 @@ ASL words and concepts that don't easily translate to other languages.
 
 Hawaii Sign Language (HSL), or more properly Hawaiʻi Sign Language, is a dying sign language. It was revealed as a natural language only in 2013.
 
+### Media
 
+
+### 
+
+- [Endangered Language Archive: ASL](https://www.elararchive.org/uncategorized/SO_14be5e56-b629-4d89-9a4e-7a296ce0150e/). By James Woodward and Linda Yuen Lambrecht.
+- 
 
 
 
