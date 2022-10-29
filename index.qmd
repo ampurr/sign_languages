@@ -9,8 +9,8 @@ toc-title: "Stuff"
 linkcolor: "#000000"
 mainfont: FiraGo
 monofont: Fira Code
-reference-location: section
-citation-location: section
+reference-location: document
+citation-location: document
 cap-location: margin
 callout-appearance: simple
 ---
@@ -47,7 +47,7 @@ I make a lot of mistakes and I'm wrong a lot, so hopefully this will help me kee
 
 ## Really Cool Things About ASL
 
-1. The 3D structure! Verbal language is 1D + time---it's linear and can only move in one dimension. You can show things in 3D space in ASL which I really like. I'm not great at it but hopefully I'll get better at it.^[[Dragon](https://thatdeafguy.com/2012-10-18/). :dragon:]
+1. The 3D structure! Verbal language is 1D + time---it's linear and can only move in one dimension. You can show things in 3D space in ASL which I really like. I'm not great at it but hopefully I'll get better at it.^[[Dragon](https://thatdeafguy.com/2012-10-18/). :dragon: ]
 2.
 
 
@@ -59,7 +59,7 @@ People I've learned from, books I've read, and resources on ASL and other sign l
 
 - Jamil Haque. Levels 1--2. Great teacher! Likes basketball.
   + I think his name sign is a combination of J + basketball?
-- Robert J.^[Doesn't have a bio on the website. Why?] Levels 3--4. Amazing teacher! Likes the wilderness and wolves. Has broken a distressing number of bones.
+- Robert J.^[Doesn't have a bio on the website. Why? ] Levels 3--4. Amazing teacher! Likes the wilderness and wolves. Has broken a distressing number of bones.
   + I think his name sign is arbitrary. R moves downward cuz he's Robert Jr.
 
 ### Imaginary Teachers
@@ -90,7 +90,7 @@ People I've learned from, books I've read, and resources on ASL and other sign l
   + Not an exceptional dictionary. Mostly cuz it's so hard to search and pics fail to capture what videos can.
   + Probably best used to remind me what signs look like. But definitely not for learning.
   + The chapter on classifiers is nice, though.
-- _The Gallaudet Children‘s Dictionary of American Sign Language_. By GU editors and illustrators. Published 2014. :cherries:
+- _The Gallaudet Children's Dictionary of American Sign Language_. By GU editors and illustrators. Published 2014. :cherries:
   + Looks similar to the adult dictionary, but it's more colorful, which I like. :rainbow:
   + Don't have access to it and haven't read it.
   + Has a [companion website](https://gcdasl.com/).
@@ -110,7 +110,7 @@ People I've learned from, books I've read, and resources on ASL and other sign l
 - _Grammar, Gesture, and Meaning in American Sign Language_. By Scott K. Liddell. Published 2003.
   + I haven't read too far into this book. It's a lil beyond my understanding. :sweat_smile:
 - [ASL-Lex](https://asl-lex.org/). By Naomi Caselli and others.
-  + 2,723 signs are visualized in a network graph. Closeness is correlated with phonological relatedness.^[Phonology is the study of the meaningless parts of a sign.] Node size is correlated with sign frequency.
+  + 2,723 signs are visualized in a network graph. Closeness is correlated with phonological relatedness.^[Phonology is the study of the meaningless parts of a sign. ] Node size is correlated with sign frequency.
   + I wonder why phonological relatedness was used and not semantic relatedness, which seems more useful. Like, what's the use with putting "cat" and "bat" next to each other? Or HORNY and HUNGRY?
     - Is it just easier?
     - Their [2017 paper](https://link.springer.com/article/10.3758/s13428-016-0742-0) says the following:  
