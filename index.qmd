@@ -32,9 +32,9 @@ I make a lot of mistakes and I'm wrong a lot, so hopefully this will help me kee
 :::{.callout-note collapse=true}
 ## Changelog
 
-**2022-10-28**: 
+**2022-10-28**: Added :cherries: marker + fingerspelling vid.
 
-**2022-10-18**: Added sources and video links.
+**2022-10-18**: Added sources + video links.
 
 **2022-10-12**: Finally started putting the site together (as a form of procrastination).
 
@@ -53,7 +53,7 @@ I make a lot of mistakes and I'm wrong a lot, so hopefully this will help me kee
 
 ## Sources
 
-People I've learned from, books I've read, and resources on ASL and other sign languages.
+People I've learned from, books I've read, and resources on ASL and other sign languages. Some sources are marked with a :cherries: emoji. I haven't looked at those sources, probably cuz I never had access to them.
 
 ### Teachers
 
@@ -62,8 +62,7 @@ People I've learned from, books I've read, and resources on ASL and other sign l
 
 ### Imaginary Teachers
 
-- _American Sign Language: A Teacher's Resource
-Text On Grammar and Culture_. By Charlotte Baker and Dennis Cokely. Published 1980.
+- _American Sign Language: A Teacher's Resource Text On Grammar and Culture_. By Charlotte Baker and Dennis Cokely. Published 1980.
   + Probably my favorite ASL book so far.
   + From 1980, so it's old. I think most of the stuff is still good. But I'm not qualified to say.
   + I think it was only in 1960 that ASL was recognized as a natural language, so there's a lot of "we don't understand this yet." I wish there were an updated version.
@@ -72,6 +71,8 @@ Text On Grammar and Culture_. By Charlotte Baker and Dennis Cokely. Published 19
   + Not very good, unfortunately. Don't think I understand ASL grammar more after reading this.
 - The ASL App. By various Deaf signers.
   + This helped me with the numbers. There's lots of other stuff but I haven't use this app for that.
+- _Fingerspelling: Expressive & Receptive Fluency_. By Joyce Linden Groode. Published 2004. :cherries:
+  + Bill Vicars [recommended an older version](https://www.lifeprint.com/asl101/fingerspelling/fingerspellinglexicalized.htm) of this video.
 
 ### Dictionaries
 
@@ -86,7 +87,7 @@ Text On Grammar and Culture_. By Charlotte Baker and Dennis Cokely. Published 19
   + Not an exceptional dictionary. Mostly cuz it's so hard to search and pics fail to capture what videos can.
   + Probably best used to remind me what signs look like. But definitely not for learning.
   + The chapter on classifiers is nice, though.
-- _The Gallaudet Children‘s Dictionary of American Sign Language_. By GU editors and illustrators. Published 2014.
+- _The Gallaudet Children‘s Dictionary of American Sign Language_. By GU editors and illustrators. Published 2014. :cherries:
   + Looks similar to the adult dictionary, but it's more colorful, which I like. :rainbow:
   + Don't have access to it and haven't read it.
   + Has a [companion website](https://gcdasl.com/).
