@@ -216,7 +216,7 @@ ASL words and concepts that don't easily translate to other languages.
 
 ## Appendix: HSL
 
-Hawaii Sign Language (HSL), or more properly Hawaiʻi Sign Language, is a dying sign language. It was revealed as a natural language only in 2013.
+Hawaii Sign Language (HSL), or more properly Hawaiʻi Sign Language, is a dying sign language. It was revealed by Linda Yuen Lambrecht as a natural language only in 2013.
 
 ### Media
 
