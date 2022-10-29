@@ -97,6 +97,8 @@ People I've learned from, books I've read, and resources on ASL and other sign l
 
 ### Linguistics
 
+#### Books
+
 - _Sign Languages: Structures and Contexts_. By Joseph C. Hill, Diane C. Lillo-Martin and Sandra K. Wood. Published 2019.
   + The first ASL book I read! Turns out that studying linguistics is not the best way to learn a language. 
   + Really good book. Some important things I learned:
@@ -109,13 +111,19 @@ People I've learned from, books I've read, and resources on ASL and other sign l
   + 5e has a list of [Youtube videos](https://www.youtube.com/playlist?list=PLj06bPbAU0PqBHawkYzQR4AOQO9OInHWO) in lieu of a DVD.
 - _Grammar, Gesture, and Meaning in American Sign Language_. By Scott K. Liddell. Published 2003.
   + I haven't read too far into this book. It's a lil beyond my understanding. :sweat_smile:
+
+#### Studies
+
 - [ASL-Lex](https://asl-lex.org/). By Naomi Caselli and others.
   + 2,723 signs are visualized in a network graph. Closeness is correlated with phonological relatedness.^[Phonology is the study of the meaningless parts of a sign. ] Node size is correlated with sign frequency.
   + I wonder why phonological relatedness was used and not semantic relatedness, which seems more useful. Like, what's the use with putting "cat" and "bat" next to each other? Or HORNY and HUNGRY?
     - Is it just easier?
     - Their [2017 paper](https://link.springer.com/article/10.3758/s13428-016-0742-0) says the following:  
     "For example, signs like PANTS, DRESS, and SKIRT are all fairly iconic and are produced with relatively common sub-lexical properties: the locations are all on the body (depicting where the clothes are worn), and recruit all four fingers fully extended."
-  
+- "How the Alphabet Came to Be Used in a Sign Language." Sign Language Studies 4, no. 1 (2003): 10–33. By Carol Padden and Darline Clark Gunsauls. [https://doi.org/10.1353/sls.2003.0026](https://www.jstor.org/stable/26204903).
+  + Very cool! Mentions that ASL uses a lot of fingerspelling + suggests some reasons why.
+  + Most fingerspelled words are nouns.
+
 ### Other Sources
 
 - [Ryan Lepic's ASL Resources](https://sites.google.com/view/ryanlepic/about-me/asl-resources). By Ryan Lepic.
