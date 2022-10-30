@@ -3,8 +3,13 @@
 
 
 * {
-	/* text should be black, not grey */
-	color: #000000;
-	/* so 1 doesn't stand out so ugly */
-	font-variant-numeric: oldstyle-nums;
+    /* text should be black, not grey */
+    color: #000000;
+    /* so 1 doesn't stand out so ugly */
+    font-variant-numeric: oldstyle-nums;
+}
+
+ul > li {
+    list-style: "⭐ ";
+    list-style-position: outside;
 }

@@ -45,10 +45,11 @@ I make a lot of mistakes and I'm wrong a lot, so hopefully this will help me kee
 **2022-05-25**: Started `.txt` vocab list!
 :::
 
-## Really Cool Things About ASL
+<!-- ## Really Cool Things About ASL
 
 1. The 3D structure! Verbal language is 1D + time---it's linear and can only move in one dimension. You can show things in 3D space in ASL which I really like. I'm not great at it but hopefully I'll get better at it.^[[Dragon](https://thatdeafguy.com/2012-10-18/). :dragon: ]
-2.
+2. Exception: Fingerspelling is linear.
+3. -->
 
 
 ## Sources
@@ -183,7 +184,7 @@ So many. I'll try to track them here.
 
 This is a good one, in the sense that kids go through something similar during language acquisition.
 
-When teaching us how to sign race, Jamil signed SOUTH ASIAN for himself. I wrongly assumed the s-handshape was correct for all cardinal directions. Nope. Robert later taught us that north is signed with the n-handshape and so forth.
+When teaching us how to sign race, Jamil signed SOUTH ASIAN for himself. I wrongly assumed the s-handshape was correct for all cardinal directions. Robert later taught us that north is signed with the n-handshape and so forth.
 
 ### Picture & Book Reliance
 
@@ -193,6 +194,15 @@ Sometimes I sign things incorrectly cuz I look at still pics (or try to figure i
 ## Notes Notes Notes
 
 Super messy. Very subject to change + full of error.
+
+### Indexing
+
+You can do two things with indexing:
+
+1. Use it to refer to one or more present `x, y, ... z`.^[Like a person or an object. ]
+2. Use it to refer to one or more absent or hypothetical `x, y, ... z`.
+
+The first thing is easy. The second thing I'm not so good at. _Sign-Me-Fine_ talked about it. They suggested a signer index all `x, y, ... z` and then use directional verbs between them. So
 
 ### Conjunctions
 
