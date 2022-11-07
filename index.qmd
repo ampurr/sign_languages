@@ -60,8 +60,9 @@ People I've learned from, books I've read, and resources on ASL and other sign l
 
 - Jamil Haque. Levels 1--2. Great teacher! Likes basketball.
   + I think his name sign is a combination of J + basketball?
-- Robert J.^[Doesn't have a bio on the website. Why? ] Levels 3--4. Amazing teacher! Likes the wilderness and wolves. Has broken a distressing number of bones.
+- Robert.^[Doesn't have a bio on the website. Why? ] Levels 3--4. Amazing teacher! Likes the wilderness and wolves. Has broken a distressing number of bones.
   + I think his name sign is arbitrary. R moves downward cuz he's Robert Jr.
+- Gabriel.^[Also doesn't have a bio.] Level 5. New teacher. Speaks while signing.
 
 ### Imaginary Teachers
 
@@ -194,6 +195,16 @@ Sometimes I sign things incorrectly cuz I look at still pics (or try to figure i
 ## Notes Notes Notes
 
 Super messy. Very subject to change + full of error.
+
+### Parts
+
+Okay. Phonology. Signs consist of 5 parts, or parameters:^[[Handspeak: Phonology](https://www.handspeak.com/learn/index.php?id=97).]
+
+1. Handshape
+2. Movement
+3. Location
+4. Palm Orientation
+5. Non-manual Marker
 
 ### Indexing
 
