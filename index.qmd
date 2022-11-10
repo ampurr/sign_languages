@@ -126,6 +126,14 @@ People I've learned from, books I've read, and resources on ASL and other sign l
   + Very cool! Mentions that ASL uses a lot of fingerspelling + suggests some reasons why.
   + Most fingerspelled words are nouns.
 
+### Deaf History & Deaf Now
+
+- _Seeing Language in Sign: The Work of William C. Stokoe_. By Jane Maher. Published 1996.
+  + Part Stokoe biography and part narrative history, with a focus on Stokoe's work on ASL linguistics and the negative reception around it.
+  + Stokoe talks about learning systems theory in 1957? Way earlier than I thought systems theory originated.
+- [Meeting and Interacting with Deaf People](https://www.lifeprint.com/asl101/topics/meeting-deaf-people.htm). By Belinda G. Vicars.
+  + How to interact at Deaf events without seeming like a twat.
+
 ### Other Sources
 
 - [Ryan Lepic's ASL Resources](https://sites.google.com/view/ryanlepic/about-me/asl-resources). By Ryan Lepic.
@@ -134,8 +142,7 @@ People I've learned from, books I've read, and resources on ASL and other sign l
 - [ASL Signbank](https://aslsignbank.haskins.yale.edu/). By Julie A. Hochgesang and many others.
   + A collection of signs organized by glosses for the purpose of annotating ASL videos.
   + Not a learning resource.
-- _Sign Languages of the World: A Comparative Handbook_. Edited by Julie Bakken Jepsen, Goedele De Clerck,
-Sam Lutalo-Kiingi, and William B. McGregor. Published 2015.
+- _Sign Languages of the World: A Comparative Handbook_. Edited by Julie Bakken Jepsen, Goedele De Clerck, Sam Lutalo-Kiingi, and William B. McGregor. Published 2015.
   + An encyclopedia.
   + I've only read the chapter on Inuit Uukturausingit (IUR or Inuit Sign Language).
   + No chapter on Hawaii Sign Language, though it is mentioned.
@@ -162,6 +169,8 @@ Sam Lutalo-Kiingi, and William B. McGregor. Published 2015.
   
 ### Natural-ish ASL
 
+- [The Daily Moth](https://www.dailymoth.com/).
+  + News in ASL, mostly news relevant to the Deaf community.
 - [ASL Nook](https://aslnook.com/) and [their YouTube channel](https://www.youtube.com/c/SheenaMcFeely/videos).
   + Natural ASL, mostly by kids. Words in context. Some stories.
 - [List of "diverse ASL signers"](https://www.reddit.com/r/asl/comments/xl7y9s/looking_for_diverse_youtube_channels/) on Reddit.
