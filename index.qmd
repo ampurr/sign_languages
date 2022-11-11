@@ -29,21 +29,6 @@ Originally this was a vocab list---I kept forgetting words. Unfortunately I'm sl
 
 I make a lot of mistakes and I'm wrong a lot, so hopefully this will help me keep track of those, too.
 
-:::{.callout-note collapse=true}
-## Changelog
-
-**2022-10-28**: Added :cherries: marker + fingerspelling vid.
-
-**2022-10-18**: Added sources + video links.
-
-**2022-10-12**: Finally started putting the site together (as a form of procrastination).
-
-**2022-10-02**: Started `.qmd` document.
-
-**2022-07-17**: The 203rd word was added to the vocab list. Stopped updating after that.
-
-**2022-05-25**: Started `.txt` vocab list!
-:::
 
 <!-- ## Really Cool Things About ASL
 
@@ -164,6 +149,7 @@ People I've learned from, books I've read, and resources on ASL and other sign l
   + I think these are songs with accompanied ASL? I don't really get this TBH.
 - [Snow White and the Seven Dwarves](https://www.youtube.com/watch?v=bfrnqa2Mlwc).
   + By Eyes Alive and the Florida School for the Deaf and the Blind.
+  + Mostly kids signing.
 - [Sesame Street ASL songs](https://youtu.be/00xKA_UNEcY) on YouTube.
   + Some Sesame Street songs translated to ASL.
 - SignUp, the Chrome extension.
@@ -221,7 +207,11 @@ You combine those parts to create a sign. That sign is a
 
 ### Vocabulary
 
+### Sentence Formation
 
+#### YOU ... YOU?
+
+That expresses [the concept of "are"](https://www.lifeprint.com/asl101/pages-signs/a/are.htm)---it's a form of emphasis or formality or clarity.
 
 ### Indexing
 
