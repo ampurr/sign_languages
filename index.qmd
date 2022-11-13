@@ -47,9 +47,9 @@ People I've learned from, books I've read, and resources on ASL and other sign l
   + I think his name sign is a combination of J + basketball?
 - Robert.^[Doesn't have a bio on the website. Why? ] Levels 3--4. Amazing teacher! Likes the wilderness and wolves. Has broken a distressing number of bones.
   + I think his name sign is arbitrary. R moves downward cuz he's Robert Jr.
-- Gabriel.^[Also doesn't have a bio.] Level 5. New teacher. Speaks while signing.
+- Gabriel.^[Also doesn't have a bio. ] Level 5. New teacher. Speaks while signing.
 
-### Imaginary Teachers
+### Textbooks & Stuff
 
 - _American Sign Language: A Teacher's Resource Text On Grammar and Culture_. By Charlotte Baker and Dennis Cokely. Published 1980.
   + Probably my favorite ASL book so far.
@@ -143,13 +143,15 @@ People I've learned from, books I've read, and resources on ASL and other sign l
 
 - [ASL Stories Directory](https://deafchildren.org/knowledge-center/asl-resources/sign-language-stories/).
   + ASL storytime! Stories from primary school books. :book:
+- [Stories by Jolanta Lapiak](https://www.handspeak.com/learn/index.php?id=49).
+  + Fables and stories and poems.
 - [MyGo! Sign Language for Kids](https://www.youtube.com/channel/UCygtj8VfAI0Sez4S7u65kPg).
   + Kids' shows with ASL interpretation.
 - [TreeSchool and Signing Time](https://www.youtube.com/channel/UC2qLnnrBIAdqvbHUiuPmH6w).
   + I think these are songs with accompanied ASL? I don't really get this TBH.
 - [Snow White and the Seven Dwarves](https://www.youtube.com/watch?v=bfrnqa2Mlwc).
   + By Eyes Alive and the Florida School for the Deaf and the Blind. Mostly kids signing.
-  + Uses [REAL^SICK](https://asl-lex.org/visualization/?sign=real_sick) followed by SICK, which I haven't seen before.^[Around 8:15.]
+  + Uses [REAL^SICK](https://asl-lex.org/visualization/?sign=real_sick) followed by SICK, which I haven't seen before.^[Around 8:15. ]
 - [Sesame Street ASL songs](https://youtu.be/00xKA_UNEcY) on YouTube.
   + Some Sesame Street songs translated to ASL.
 - SignUp, the Chrome extension.
