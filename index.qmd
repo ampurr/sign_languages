@@ -205,9 +205,11 @@ Okay. Phonology. Signs consist of 5 parts, or parameters:^[[Handspeak: Phonology
 4. Palm Orientation: which way your palms are facing.
 5. Non-manual Signals: consist of everything else. Facial expressions, head tilts, body movements, mouth position, and eye gaze.^[[Handspeak: Non-manual Signals](https://www.handspeak.com/learn/index.php?id=158).]
 
-You combine those parts to create a sign. That sign is a 
+You combine those parts to create a sign. That sign is a morpheme, or a basic unit of meaning. It can either exist by itself or be combined with other signs to generate larger signs. For example, TEACH and PERSON combine into TEACHER.
 
 ### Vocabulary
+
+When signing fast, that means VERY
 
 ### Sentence Formation
 
