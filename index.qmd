@@ -47,7 +47,8 @@ People I've learned from, books I've read, and resources on ASL and other sign l
   + I think his name sign is a combination of J + basketball?
 - Robert.^[Doesn't have a bio on the website. Why? ] Levels 3--4. Amazing teacher! Likes the wilderness and wolves. Has broken a distressing number of bones.
   + I think his name sign is arbitrary. R moves downward cuz he's Robert Jr.
-- Gabriel.^[Also doesn't have a bio. ] Level 5. I like him cuz he made the doorbell noise go away.
+- Gabriel.^[Also doesn't have a bio. ] Level 5. I like him cuz he made the doorbell noise go away. Sometimes does simcom. On the Uber app.
+  + His name sign reminds me of Clerc's, but with a V-handshape instead.
 
 ### Textbooks & Stuff
 
@@ -81,6 +82,8 @@ People I've learned from, books I've read, and resources on ASL and other sign l
   + Looks similar to the adult dictionary, but it's more colorful, which I like. :rainbow:
   + Don't have access to it and haven't read it.
   + Has a [companion website](https://gcdasl.com/).
+- [ASL Core](https://aslcore.org/). By RIT NTID.
+  + Suggested signs for academic + technical topics.
 
 ### Linguistics
 
@@ -123,12 +126,12 @@ People I've learned from, books I've read, and resources on ASL and other sign l
 
 ### Other Sources
 
-- [Ryan Lepic's ASL Resources](https://sites.google.com/view/ryanlepic/about-me/asl-resources). By Ryan Lepic.
-  + Hearing professor at GU.
-  + The links to video resources seem helpful.
 - [ASL Signbank](https://aslsignbank.haskins.yale.edu/). By Julie A. Hochgesang and many others.
   + A collection of signs organized by glosses for the purpose of annotating ASL videos.
   + Not a learning resource.
+- [Ryan Lepic's ASL Resources](https://sites.google.com/view/ryanlepic/about-me/asl-resources). By Ryan Lepic.
+  + Hearing professor at GU.
+  + The links to video resources seem helpful.
 - _Sign Languages of the World: A Comparative Handbook_. Edited by Julie Bakken Jepsen, Goedele De Clerck, Sam Lutalo-Kiingi, and William B. McGregor. Published 2015.
   + An encyclopedia.
   + I've only read the chapter on Inuit Uukturausingit (IUR or Inuit Sign Language).
@@ -137,6 +140,8 @@ People I've learned from, books I've read, and resources on ASL and other sign l
   + A website with compiled info about writing ASL. Very cool problem that I've never thought about before reading this and going on a hunt for knowledge about written ASL.
   + Seems dead. Hasn't been an update in like a decade.
   + I know Jolanta Lapiak is into written ASL, too.
+- [List of ASL Resources](https://docs.google.com/document/d/1nIl25bnKeQl0OXkMZoq9PkW-vC6VFAqlMgBVK4-EsxM/edit). By K.
+  + Some resources, though a lot of it isn't useful to me in particular.
 
 
 ## Videos to Learn From
