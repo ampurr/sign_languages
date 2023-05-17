@@ -1,5 +1,5 @@
 ---
-title: "sign_languages"
+title: "Some Notes on Sign Languages"
 toc: false
 ---
 
@@ -7,11 +7,13 @@ toc: false
 
 These are some of my personal notes on sign languages. Mostly American Sign Language (ASL). If you are not me, don't use this to learn ASL. I'm wrong all the time! There are lots of Deaf ASL teachers around---learn from someone qualified like them, please. :cat2:
 
-## Notes
+
+## My Notes
 
 1. [American Sign Language: Resources](resources.qmd)
-2. [American Sign Language: Notes]()
+2. [American Sign Language: Notes](notes.qmd)
 3. [Hawaiʻi Sign Language: Brief Notes](hsl.qmd)
+
 
 ## Motivation
 
@@ -20,6 +22,7 @@ I like ASL a lot but I'm not very good at it. I'm hoping that keeping these note
 Originally this was a vocab list. I kept forgetting words. Unfortunately I'm slow and it would take me literal days to transcribe the words and their structure, so I stopped doing that. Probably wasn't helping too much anyway. I also read a bunch of books about ASL and wanted to keep track. And I wanted to be able to easily access the document on multiple devices. So: website!
 
 I make a lot of mistakes and I'm wrong a lot, so hopefully this will help me keep track of those, too.
+
 
 <!-- ## Really Cool Things About ASL
 
