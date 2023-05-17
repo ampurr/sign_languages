@@ -1,0 +1,20 @@
+project:
+  title: "sign_languages"
+
+format: html
+css: changes.css
+from: markdown+emoji
+
+toc: true
+toc-location: left
+toc-title: "Stuff"
+
+mainfont: FiraGo
+monofont: Fira Code
+linkcolor: "#000000"
+callout-appearance: simple
+
+reference-location: document
+citation-location: document
+cap-location: margin
+
