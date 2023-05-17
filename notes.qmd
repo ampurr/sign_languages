@@ -9,9 +9,26 @@ If you are not me, you should not be here! Assume that everything here is wrong 
 :::
 
 
+## Intro
+
+Okay. Notes. Super messy + may change a lot + almost certainly super duper wrong.
+
+
 ## Mistakes I've Made
 
 So many. I'll try to track them here.
+
+### Bad Reception
+
+A weak point. I gotta work on my receptive skills. Often I can get the gist, but the specifics are beyond me. This makes it difficult to participate in discussions.
+
+Bill Vicar [has some tips on how to get receptive practice](https://www.lifeprint.com/asl101/topics/receptive-asl-skills-practice.htm).
+
+### Missing Signs
+
+Sometimes, when I watch people sign, some signs just drop out of my consciousness and I only realize that the person signed them later. I think this is just a receptive skills thing. Hopefully, more exposure and training will solve this problem.
+
+Similarly, when I sign I may drop words and fail to sign them. I'm hoping this is also a skill issue, but it may be part of my general difficulty with communication.
 
 ### Overgeneralization
 
@@ -23,45 +40,54 @@ When teaching us how to sign race, Jamil signed SOUTH ASIAN for himself. I wrong
 
 Sometimes I sign things incorrectly cuz I look at still pics (or try to figure it out from words) instead of videos. Usually the handshape is right, but I do the movements wrong.
 
-### Missing Signs
+### Syntax Not Semantics
 
-Sometimes, when I watch people sign, some signs just drop out of my consciousness and I only realize them later. 
+This is a bad one, in the sense that generally only happens to grown-ups who learn a new language.
+
+I'll mix up words which have similar syntax, like BIRTHDAY and FAVORITE, just cuz a lot of the parameters are the same. This is bad! Like, native English speakers don't confused "bat" and "cat" just cuz they sound similar. They mean very different things. BIRTHDAY and FAVORITE mean very different things, too. But I make these mistakes cuz I'm not a native ASL signer.
 
 
-## Notes Notes Notes
+## Trying to Understand ASL Parts
 
-Super messy. Very subject to change + full of error.
-
-### Parts
-
-Okay. Phonology. Signs consist of 5 parts, or parameters:^[[Handspeak: Phonology](https://www.handspeak.com/learn/index.php?id=97).]
+[ASL phonology](https://www.handspeak.com/learn/index.php?id=97)! Signs consist of 5 parts, or parameters:
 
 1. Handshape: the shape of the hands.
 2. Movement: how your hands move. For example, verbs move once and nouns twice; e.g. EAT and FOOD.
 3. Location: where the hands are.
 4. Palm Orientation: which way your palms are facing.
-5. Non-manual Signals: consist of everything else. Facial expressions, head tilts, body movements, mouth position, and eye gaze.^[[Handspeak: Non-manual Signals](https://www.handspeak.com/learn/index.php?id=158).]
+5. Non-manual Signals: consist of everything else. Facial expressions, head tilts, body movements, mouth position, and eye gaze. Handspeak [has a good explanation of them](https://www.handspeak.com/learn/index.php?id=158).
 
 You combine those parts to create a sign. That sign is a morpheme, or a basic unit of meaning. It can either exist by itself or be combined with other signs to generate larger signs. For example, TEACH and PERSON combine into TEACHER.
 
-### Vocabulary
+Some specifics:
 
-When signing fast, that means VERY
+### Movement
 
-### Sentence Formation
+Signing fast can be used to mean "very." For example: signing SLOW quickly means "very slow." (So does signing it slowly---maybe not the best example.)
 
-#### YOU ... YOU?
+Making your movements bigger when signing can imply largeness. For example: signing FAMILY while making a very large circle means "big family."
 
-That expresses [the concept of "are"](https://www.lifeprint.com/asl101/pages-signs/a/are.htm)---it's a form of emphasis or formality or clarity.
+### Location
+
+When fingerspelling, location influences loudness.^[[ASL: 7 Good Habits](https://youtu.be/IeeMM7Nts6I).] Signing around shoulder height is typical. Signing above the shoulder is shouting, and signing below it is whispering.
+
+
+## Doing Things with Signs
+
+Moving on from the parts themselves to sentences, word order, and just doing stuff that isn't just signing one word.
+
+### YOU ... YOU?
+
+That expresses [the concept of "are"](https://www.lifeprint.com/asl101/pages-signs/a/are.htm). It's a form of emphasis or formality or clarity.
 
 ### Indexing
 
 You can do two things with indexing:
 
-1. Use it to refer to one or more present `x, y, ... z`.^[Like a person or an object. ]
+1. Use it to refer to one or more present `x, y, ... z`. Like a person or an object.
 2. Use it to refer to one or more absent or hypothetical `x, y, ... z`.
 
-The first thing is easy. The second thing I'm not so good at. _Sign-Me-Fine_ talked about it. They suggested a signer index all `x, y, ... z` and then use directional verbs between them. So
+The first thing is easy. The second thing I'm not so good at. _Sign-Me-Fine_ talked about it. They suggested a signer index all `x, y, ... z` and then use directional verbs between them. _Barron's E-Z American Sign Language_ instead suggests
 
 ### Conjunctions
 
@@ -81,11 +107,6 @@ In Level 4.4 we learned the following conjunctions:
 
 Not sure how to best learn these. I'm worried I'll forget them. And some, like WRONG and HAPPEN, seem kinda similar.
 
-### Receptive Skills
-
-My weak point! Need to practice this a lot lot more than I'm doing now.
-
-- Bill Vicar [has some tips on how to get receptive practice.](https://www.lifeprint.com/asl101/topics/receptive-asl-skills-practice.htm)
 
 ### ASL-specific Words
 
