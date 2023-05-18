@@ -8,12 +8,12 @@ title: "ASL Resources"
 If you are not me, you should not be here! Assume that everything here is wrong and that I don't know what I'm writing about, cuz I don't.
 
 
-## Sources
+## Resources?
 
-People I've learned from, books I've read, and resources on ASL and other sign languages. Some sources are marked with a :cherries: emoji. I haven't looked at those sources, probably cuz I never had access to them.
+Educational, fun, or interesting resources on ASL, Deaf culture and history, and other sign languages. Sources marked with a :cherries: emoji haven't been looked at.
 
 
-### Textbooks & Stuff
+## Textbooks & Stuff
 
 - _American Sign Language: A Teacher's Resource Text On Grammar and Culture_. By Charlotte Baker and Dennis Cokely. Published 1980.
   + Probably my favorite ASL book so far.
@@ -30,7 +30,8 @@ People I've learned from, books I've read, and resources on ASL and other sign l
   + [Website's here](https://www.dawnsign.com/products/details/fingerspelling-expressive-receptive-fluency). The trailer seems very 1990s.
   + Bill Vicars [recommended an older version](https://www.lifeprint.com/asl101/fingerspelling/fingerspellinglexicalized.htm) of this video.
 
-### Dictionaries
+
+## Dictionaries
 
 - [Handspeak](https://www.handspeak.com/). By Jolanta Lapiak.
   + Great ASL-English dictionary---arguably the best.
@@ -41,6 +42,7 @@ People I've learned from, books I've read, and resources on ASL and other sign l
   + I think this was one of the first online ASL resources ever. That's really cool.
 - [Spread the Sign](https://www.spreadthesign.com/en.us/search/). By Thomas Lydell.
   + Translations for multiple sign languages. Pretty neat.
+  + They have sentences, too.
 - _The Gallaudet Dictionary of American Sign Language_. By GU editors and illustrators. Published 2005.
   + Not an exceptional dictionary. Mostly cuz it's so hard to search and pics fail to capture what videos can.
   + Probably best used to remind me what signs look like. But definitely not for learning.
@@ -54,9 +56,10 @@ People I've learned from, books I've read, and resources on ASL and other sign l
 - [ASL Core](https://aslcore.org/). By RIT NTID.
   + Suggested signs for academic + technical topics.
 
-### Linguistics
 
-#### Books
+## Linguistics
+
+### Books
 
 - _Sign Languages: Structures and Contexts_. By Joseph C. Hill, Diane C. Lillo-Martin and Sandra K. Wood. Published 2019.
   + The first ASL book I read! Turns out that studying linguistics is not the best way to learn a language. 
@@ -71,7 +74,7 @@ People I've learned from, books I've read, and resources on ASL and other sign l
 - _Grammar, Gesture, and Meaning in American Sign Language_. By Scott K. Liddell. Published 2003.
   + I haven't read too far into this book. It's a lil beyond my understanding. :sweat_smile:
 
-#### Studies
+### Studies
 
 - [ASL-Lex](https://asl-lex.org/). By Naomi Caselli and others.
   + 2,723 signs are visualized in a network graph. Closeness is correlated with phonological relatedness.^[Phonology is the study of the meaningless parts of a sign. ] Node size is correlated with sign frequency.
@@ -83,7 +86,8 @@ People I've learned from, books I've read, and resources on ASL and other sign l
   + Very cool! Mentions that ASL uses a lot of fingerspelling + suggests some reasons why.
   + Most fingerspelled words are nouns.
 
-### Deaf Culture & History
+
+## Deaf Culture & History
 
 - [Deaf Power](https://deafpower.me/resources/). By Christine Sun Kim and Ravi Vasavan, amongst others.
   + Resources for everything Deaf-relevant. Includes ASL resources.
@@ -104,7 +108,8 @@ People I've learned from, books I've read, and resources on ASL and other sign l
   + Deaf meetups around the US.
   + None in NYC as far as I can tell.
 
-### Other Sources
+
+## Other Sources
 
 - [ASL Signbank](https://aslsignbank.haskins.yale.edu/). By Julie A. Hochgesang and many others.
   + A collection of signs organized by glosses for the purpose of annotating ASL videos.
@@ -126,9 +131,7 @@ People I've learned from, books I've read, and resources on ASL and other sign l
   + Some resources, though a lot of it isn't useful to me in particular.
 
 
-## Videos to Learn From
-
-### Stories
+## Storytelling
 
 - [Atlanta Area School for the Deaf Accessible Materials Project](https://www.aasdweb.com/Page/227).
   + Kids' books, family resources, and more.
@@ -152,8 +155,9 @@ People I've learned from, books I've read, and resources on ASL and other sign l
   + Joey is a performer for some of them!
 - SignUp, the Chrome extension.
   + Not very good, cuz the ASL video isn't well-synchronized with the movie.
-  
-### Natural-ish ASL
+
+
+## ASL in Daily Life
 
 - [The Daily Moth](https://www.dailymoth.com/).
   + News in ASL, mostly news relevant to the Deaf community.
@@ -167,7 +171,8 @@ People I've learned from, books I've read, and resources on ASL and other sign l
 - [White House YouTube Channel](https://www.youtube.com/@WhiteHouse).
   + Has ASL interpreter.
 
-### Pedagogy
+
+## Pedagogy
 
 - [ASL Yes](https://www.aslyes.com/)
 - [Gallaudet University's ASL Connect](https://gallaudet.edu/asl-connect/topics/).
@@ -177,7 +182,7 @@ People I've learned from, books I've read, and resources on ASL and other sign l
   + Some suggestions for memorizing conjunctions.
 
 
-### ASL-specific Words
+## ASL-specific Words
 
 ASL words and concepts that don't easily translate to other languages.
 
