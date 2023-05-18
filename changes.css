@@ -1,15 +1,75 @@
+
 /* css file for sign languages */
-/* most of the css is rendered by pandoc and quarto, so it's not here */
 
 
-* {
-    /* text should be black, not grey */
-    color: #000000;
-    /* so 1 doesn't stand out so ugly */
-    font-variant-numeric: oldstyle-nums;
+@font-face {
+	font-family: "TTB";
+	src: url("font/TT2020StyleB-Regular.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "TTB";
+    src: url("font/TT2020StyleB-Italic.woff2") format("woff2");
+    font-style: italic;
+}
+
+@font-face {
+	font-family: "TTE";
+	src: url("font/TT2020StyleE-Regular.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "TTE";
+    src: url("font/TT2020StyleE-Italic.woff2") format("woff2");
+    font-style: italic;
+}
+
+html {
+    color: #000000; /* black, not grey */
+	font-family: "TTE", serif;
+    font-variant-numeric: oldstyle-nums; /* makes 1 look better */
+}
+
+h1, h2, h3 {
+	font-family: "TTB", serif;
 }
 
 ul > li {
-    list-style: "⭐ ";
+    list-style: "* ";
     list-style-position: outside;
 }
+
+a {
+	text-decoration-line: none;
+}
+
+
+/* direct edits to the bootstrap stuff */
+
+h2 {
+	border-bottom: 2px solid #000000;
+}
+
+main ol ol,
+main ul ul,
+main ol ul,
+main ul ol {
+	margin-bottom: 0em;
+}
+
+#heads-up {
+	color: #ff6201;
+}
+
+#heads-up > h2 {
+	border-bottom: 0px solid #ff6201;
+	padding-bottom: 0rem;
+	margin-bottom: 0.5rem;
+}
+
+#heads-up > h2::before {
+	content: "(!) ";
+}
+
+
+/* heads up: most of the css is rendered by pandoc and quarto, so it's not here */

@@ -1,17 +1,20 @@
 project:
   title: "sign_languages"
 
-format: html
+format:
+  html:
+    anchor-sections: false
 css: changes.css
 from: markdown+emoji
 
 toc: true
-toc-location: left
-toc-title: "Stuff"
+toc-location: body
+toc-title: "Contents"
 
-mainfont: FiraGo
-monofont: Fira Code
-linkcolor: "#000000"
+mainfont: TTE
+monofont: TTE
+fontsize: 1.125rem
+linkcolor: "#0d6efd"
 callout-appearance: simple
 
 reference-location: document

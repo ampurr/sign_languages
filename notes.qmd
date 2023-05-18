@@ -2,11 +2,10 @@
 title: "ASL Notes"
 ---
 
-:::{.callout-warning}
-## Heads Up
+
+## Heads Up {.unnumbered .unlisted}
 
 If you are not me, you should not be here! Assume that everything here is wrong and that I don't know what I'm writing about, cuz I don't.
-:::
 
 
 ## Intro
@@ -34,7 +33,7 @@ Similarly, when I sign I may drop words and fail to sign them. I'm hoping this i
 
 This is a good one, in the sense that kids go through something similar during language acquisition.
 
-When teaching us how to sign race, Jamil signed SOUTH ASIAN for himself. I wrongly assumed the s-handshape was correct for all cardinal directions. Robert later taught us that north is signed with the n-handshape.
+When teaching us how to sign race, Jamil signed SOUTH ASIAN for himself. I wrongly assumed the S-handshape was correct for all cardinal directions. Robert later taught us that north is signed with the N-handshape.
 
 ### Picture & Book Reliance
 
@@ -42,12 +41,12 @@ Sometimes I sign things incorrectly cuz I look at still pics (or try to figure i
 
 ### Syntax Not Semantics
 
-This is a bad one, in the sense that generally only happens to grown-ups who learn a new language.
+This is a bad one, in the sense that this generally only happens to grown-ups who learn a new language.
 
-I'll mix up words which have similar syntax, like BIRTHDAY and FAVORITE, just cuz a lot of the parameters are the same. This is bad! Like, native English speakers don't confused "bat" and "cat" just cuz they sound similar. They mean very different things. BIRTHDAY and FAVORITE mean very different things, too. But I make these mistakes cuz I'm not a native ASL signer.
+I mix up words which have similar syntax, like BIRTHDAY and FAVORITE, just cuz a lot of the parameters are the same. This is bad! Like, native English speakers don't confused "bat" and "cat" just cuz they sound similar. They mean very different things. BIRTHDAY and FAVORITE mean very different things, too. But I make these mistakes cuz I'm not a native ASL signer.
 
 
-## Trying to Understand ASL Parts
+## Understanding the Parts of ASL
 
 [ASL phonology](https://www.handspeak.com/learn/index.php?id=97)! Signs consist of 5 parts, or parameters:
 
@@ -63,41 +62,33 @@ Some specifics:
 
 ### Movement
 
-Signing fast can be used to mean "very." For example: signing SLOW quickly means "very slow." (So does signing it slowly---maybe not the best example.)
+Signing fast can be used to mean "very." For example: signing SLOW quickly means "very slow." (So does signing it slowly. So maybe not the best example.)
 
 Making your movements bigger when signing can imply largeness. For example: signing FAMILY while making a very large circle means "big family."
 
 ### Location
 
-When fingerspelling, location influences loudness.^[[ASL: 7 Good Habits](https://youtu.be/IeeMM7Nts6I).] Signing around shoulder height is typical. Signing above the shoulder is shouting, and signing below it is whispering.
+When fingerspelling, [location influences loudness](https://youtu.be/IeeMM7Nts6I). Signing around shoulder height is typical. Signing above the shoulder is shouting, and signing below it is whispering.
 
 
 ## Doing Things with Signs
 
 Moving on from the parts themselves to sentences, word order, and just doing stuff that isn't just signing one word.
 
-### YOU ... YOU?
-
-That expresses [the concept of "are"](https://www.lifeprint.com/asl101/pages-signs/a/are.htm). It's a form of emphasis or formality or clarity.
-
-### Indexing
-
-You can do two things with indexing:
-
-1. Use it to refer to one or more present `x, y, ... z`. Like a person or an object.
-2. Use it to refer to one or more absent or hypothetical `x, y, ... z`.
-
-The first thing is easy. The second thing I'm not so good at. _Sign-Me-Fine_ talked about it. They suggested a signer index all `x, y, ... z` and then use directional verbs between them. _Barron's E-Z American Sign Language_ instead suggests
-
 ### Conjunctions
 
 Remember that a conjunction binds two propositions together. ASL has conjunctions similar to English's and even more. In ASL, when signing a conjunction, raise yr eyebrows.
 
-Jolanta Lapiak [has written about conjunctions](https://www.handspeak.com/learn/index.php?id=35).
+Let's see. There's a bunch:
+
+- There's the 5 W's and HOW. Those are straightforward. I wonder if I use them too often.
+- IF or SUPPOSE. Begin with SUPPOSE and then pause between the propositions.
+- Don't use AND. [Instead, use PLUS](https://lifeprint.com/asl101/pages-signs/a/and.htm). Or, depending on the context, use ADD, ALSO, BOTH, WITH, or simply index.
+- 
 
 #### In Class
 
-In Level 4.4 we learned the following conjunctions:
+In 4.4 we learned the following conjunctions:
 
 - WRONG: suddenly, without warning
 - HAPPEN: just learned, just like that
@@ -107,11 +98,17 @@ In Level 4.4 we learned the following conjunctions:
 
 Not sure how to best learn these. I'm worried I'll forget them. And some, like WRONG and HAPPEN, seem kinda similar.
 
+Jolanta Lapiak [has written about conjunctions](https://www.handspeak.com/learn/index.php?id=35).
 
-### ASL-specific Words
+### Indexing
 
-ASL words and concepts that don't easily translate to other languages.
+You can do two things with indexing:
 
-- Rogan Shannon and Ren Putz [talk about ASL slang and exclusive words](https://www.youtube.com/watch?v=K2iRwQJh9dk).
-- Bill Vicars [has a list of ASL idioms](https://www.lifeprint.com/asl101/pages-layout/idioms.htm).
-- Jolanta Lapiak also [has an idioms list](https://www.handspeak.com/learn/index.php?id=146).
+1. Use it to refer to one or more present `x, y, ... z`. Like a person or an object.
+2. Use it to refer to one or more absent or hypothetical `x, y, ... z`.
+
+The first thing is easy. The second thing I'm not so good at. _Sign-Me-Fine_ talked about it. They suggested a signer index all `x, y, ... z` and then use directional verbs between them. _Barron's E-Z American Sign Language_ instead suggests indexing when needed, which seems more natural to me.
+
+### YOU ... YOU?
+
+That expresses [the concept of "are"](https://www.lifeprint.com/asl101/pages-signs/a/are.htm). It's a form of emphasis or formality or clarity.

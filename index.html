@@ -27,7 +27,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="index_files/libs/quarto-html/quarto.js"></script>
 <script src="index_files/libs/quarto-html/popper.min.js"></script>
 <script src="index_files/libs/quarto-html/tippy.umd.min.js"></script>
-<script src="index_files/libs/quarto-html/anchor.min.js"></script>
 <link href="index_files/libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="index_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="index_files/libs/bootstrap/bootstrap.min.js"></script>
@@ -62,19 +61,20 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 <section id="about" class="level2">
-<h2 class="anchored" data-anchor-id="about">About</h2>
-<p>These are some of my personal notes on sign languages. Mostly American Sign Language (ASL). If you are not me, don’t use this to learn ASL. I’m wrong all the time! There are lots of Deaf ASL teachers around—learn from someone qualified like them, please. <span class="emoji" data-emoji="cat2">🐈</span></p>
+<h2 data-anchor-id="about">About</h2>
+<p>These are some of my personal notes on sign languages. Mostly American Sign Language (ASL). Don’t use this to learn ASL. I’m wrong all the time! And this website is meant only for me, not the public. There are lots of Deaf ASL teachers around. Learn from someone qualified like them, please.</p>
+<p>I’m using Fredrick Brennan’s <a href="https://copypaste.wtf/TT2020/docs/">TT2020 typeface</a>.</p>
 </section>
 <section id="my-notes" class="level2">
-<h2 class="anchored" data-anchor-id="my-notes">My Notes</h2>
-<ol type="1">
-<li><a href="resources.qmd">American Sign Language: Resources</a></li>
-<li><a href="notes.qmd">American Sign Language: Notes</a></li>
-<li><a href="hsl.qmd">Hawaiʻi Sign Language: Brief Notes</a></li>
-</ol>
+<h2 data-anchor-id="my-notes">My Notes</h2>
+<ul>
+<li><a href="resources.html">Sign Languages: Resources</a></li>
+<li><a href="notes.html">American Sign Language: Notes</a></li>
+<li><a href="hsl.html">Hawaiʻi Sign Language: Brief Notes</a></li>
+</ul>
 </section>
 <section id="motivation" class="level2">
-<h2 class="anchored" data-anchor-id="motivation">Motivation</h2>
+<h2 data-anchor-id="motivation">Motivation</h2>
 <p>I like ASL a lot but I’m not very good at it. I’m hoping that keeping these notes will help me learn it better. I also have pencil-and-paper notes, but digital notes like these let me do things like link to videos.</p>
 <p>Originally this was a vocab list. I kept forgetting words. Unfortunately I’m slow and it would take me literal days to transcribe the words and their structure, so I stopped doing that. Probably wasn’t helping too much anyway. I also read a bunch of books about ASL and wanted to keep track. And I wanted to be able to easily access the document on multiple devices. So: website!</p>
 <p>I make a lot of mistakes and I’m wrong a lot, so hopefully this will help me keep track of those, too.</p>
@@ -107,13 +107,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

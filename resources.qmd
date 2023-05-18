@@ -2,11 +2,10 @@
 title: "ASL Resources"
 ---
 
-:::{.callout-warning}
-## Heads Up
+
+## Heads Up {.unnumbered .unlisted}
 
 If you are not me, you should not be here! Assume that everything here is wrong and that I don't know what I'm writing about, cuz I don't.
-:::
 
 
 ## Sources
@@ -21,7 +20,7 @@ People I've learned from, books I've read, and resources on ASL and other sign l
   + From 1980, so it's old. I think most of the stuff is still good. But I'm not qualified to say.
   + I think it was only in 1960 that ASL was recognized as a natural language, so there's a lot of "we don't understand this yet." I wish there were an updated version.
 - _Sign-Me-Fine_. By Laura Greene and Eva Barash Dicker. Published 1990.
-  + ASL grammar book for kids middle school--age and older.
+  + ASL grammar book for kids middle school--aged and older.
   + Not very good, unfortunately. Don't think I understand ASL grammar more after reading this.
 - The ASL App. By various Deaf signers.
   + This helped me with the numbers. There's lots of other stuff but I haven't use this app for that.
@@ -178,7 +177,13 @@ People I've learned from, books I've read, and resources on ASL and other sign l
   + Some suggestions for memorizing conjunctions.
 
 
+### ASL-specific Words
 
+ASL words and concepts that don't easily translate to other languages.
+
+- Rogan Shannon and Ren Putz [talk about ASL slang and exclusive words](https://www.youtube.com/watch?v=K2iRwQJh9dk).
+- Bill Vicars [has a list of ASL idioms](https://www.lifeprint.com/asl101/pages-layout/idioms.htm).
+- Jolanta Lapiak also [has an idioms list](https://www.handspeak.com/learn/index.php?id=146).
 
 
 

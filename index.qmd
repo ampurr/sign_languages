@@ -5,14 +5,16 @@ toc: false
 
 ## About
 
-These are some of my personal notes on sign languages. Mostly American Sign Language (ASL). If you are not me, don't use this to learn ASL. I'm wrong all the time! And this website is not meant for the public. There are lots of Deaf ASL teachers around---learn from someone qualified like them, please. :cat2:
+These are some of my personal notes on sign languages. Mostly American Sign Language (ASL). Don't use this to learn ASL. I'm wrong all the time! And this website is meant only for me, not the public. There are lots of Deaf ASL teachers around. Learn from someone qualified like them, please.
+
+I'm using Fredrick Brennan's [TT2020 typeface](https://copypaste.wtf/TT2020/docs/).
 
 
 ## My Notes
 
-1. [American Sign Language: Resources](resources.qmd)
-2. [American Sign Language: Notes](notes.qmd)
-3. [Hawaiʻi Sign Language: Brief Notes](hsl.qmd)
+- [Sign Languages: Resources](resources.html)
+- [American Sign Language: Notes](notes.html)
+- [Hawaiʻi Sign Language: Brief Notes](hsl.html)
 
 
 ## Motivation
