@@ -8,9 +8,9 @@ title: "ASL Notes"
 If you are not me, you should not be here! Assume that everything here is wrong and that I don't know what I'm writing about, cuz I don't.
 
 
-## Intro
+## What is This?
 
-Okay. Notes. Super messy + may change a lot + almost certainly super duper wrong.
+Here are my notes on ASL. They're super messy, may change a lot, and are almost certainly super duper wrong.
 
 
 ## Mistakes I've Made
@@ -81,8 +81,9 @@ Remember that a conjunction binds two propositions together. ASL has conjunction
 
 Let's see. There's a bunch:
 
-- There's WHO, WHAT, WHERE, WHEN, WHY, and HOW. Those are straightforward. I wonder if I [use them too often](https://youtu.be/c-tT_VWfyNU).
-- Also FOR-FOR, though I'm not sure when to use FOR-FOR versus FOR WHAT.
+- There's the rhetorical questions. These are used often. Maybe [too often](https://youtu.be/c-tT_VWfyNU).
+  + There's WHO, WHAT, WHERE, WHEN, WHY, and HOW. Those are straightforward.
+  + Also REASON. And FOR-FOR, though I'm not sure when to use FOR-FOR versus FOR WHAT.
 - IF or SUPPOSE. Begin with SUPPOSE and then pause between the propositions.
 - Don't use AND. [Instead, use PLUS](https://lifeprint.com/asl101/pages-signs/a/and.htm). Or, depending on the context, use ADD, ALSO, BOTH, WITH, or simply index.
 - There are also some conjunctions that aren't used in English. I noticed that I don't really use them spontaneously, nor do my classmates. Not quite sure how to resolve that. These include:
