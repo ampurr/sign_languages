@@ -81,22 +81,16 @@ Remember that a conjunction binds two propositions together. ASL has conjunction
 
 Let's see. There's a bunch:
 
-- There's the 5 W's and HOW. Those are straightforward. I wonder if I use them too often.
+- There's WHO, WHAT, WHERE, WHEN, WHY, and HOW. Those are straightforward. I wonder if I [use them too often](https://youtu.be/c-tT_VWfyNU).
+- Also FOR-FOR, though I'm not sure when to use FOR-FOR versus FOR WHAT.
 - IF or SUPPOSE. Begin with SUPPOSE and then pause between the propositions.
 - Don't use AND. [Instead, use PLUS](https://lifeprint.com/asl101/pages-signs/a/and.htm). Or, depending on the context, use ADD, ALSO, BOTH, WITH, or simply index.
-- 
-
-#### In Class
-
-In 4.4 we learned the following conjunctions:
-
-- WRONG: suddenly, without warning
-- HAPPEN: just learned, just like that
-- DISCOVER: find out, realized
-- FRUSTRATED: being stopped from
-- HIT: unexpectedly, coincidence
-
-Not sure how to best learn these. I'm worried I'll forget them. And some, like WRONG and HAPPEN, seem kinda similar.
+- There are also some conjunctions that aren't used in English. I noticed that I don't really use them spontaneously, nor do my classmates. Not quite sure how to resolve that. These include:
+  + WRONG: suddenly, without warning
+  + HAPPEN: just learned, just like that
+  + DISCOVER: find out, realized
+  + FRUSTRATED: being stopped from
+  + HIT: unexpectedly, coincidence
 
 Jolanta Lapiak [has written about conjunctions](https://www.handspeak.com/learn/index.php?id=35).
 
