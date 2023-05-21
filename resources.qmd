@@ -12,7 +12,7 @@ If you are not me, you should not be here! Assume that everything here is wrong 
 
 These are educational, fun, or interesting resources on ASL, Deaf culture and history, and other sign languages. Sources marked with a :cherries: emoji haven't been looked at, but they're here cuz I thought they seemed useful.
 
-Remember that the best teacher is a Deaf instructor or tutor. These resources help with learning but are insufficient for getting a thorough understanding of sign languages or Deaf culture.
+Note to self: remember that the best teacher is a Deaf instructor or tutor. These resources help with learning but are insufficient for getting a thorough understanding of sign languages or Deaf culture.
 
 
 ## Deaf Culture & History
@@ -39,22 +39,6 @@ Remember that the best teacher is a Deaf instructor or tutor. These resources he
   + Summer camp for Deaf in very upstate NY.
 - [Deaf Coffee](https://deafcoffee.com/).
   + Deaf meetups around the US.
-
-
-## ASL Textbooks
-
-- _American Sign Language: A Teacher's Resource Text On Grammar and Culture_. By Charlotte Baker and Dennis Cokely. Published 1980.
-  + Probably my favorite ASL book so far.
-  + From 1980, so it's old. I think most of the stuff is still good. But I'm not qualified to say.
-  + ASL was recognized as a natural language only in 1960, so there's a lot of "we don't understand this yet." I wish there were an updated version.
-- _Barron's E-Z American Sign Language_. Third edition. By David Stewart, Elizabeth Stewart, Lisa Dimling, and Jessalyn Little. Published 2011.
-  + This is okay. It's teaching me new words. Not sure the grammar stuff is super helpful, though.
-- _Sign-Me-Fine_. By Laura Greene and Eva Barash Dicker. Published 1990.
-  + ASL grammar book for kids middle school--aged and older.
-  + Not very good, unfortunately. Don't think I understand ASL grammar more after reading this.
-- [The ASL App](https://theaslapp.com/). By various Deaf signers.
-  + Short video lessons on ASL. Mostly vocabulary.
-  + This helped me with the numbers beyond 99.
 
 
 ## Dictionaries
@@ -106,7 +90,6 @@ Remember that the best teacher is a Deaf instructor or tutor. These resources he
     2. There is a specific set of meaningless parts and those parts combine only in certain ways.
     3. In signs that use two hands, either the sign is symmetrical or the non-dominant hand is still. CAT and SALT are respective examples.
 
-
 ### Studies
 
 - [ASL-Lex](https://asl-lex.org/). By Naomi Caselli and others.
@@ -117,6 +100,22 @@ Remember that the best teacher is a Deaf instructor or tutor. These resources he
 - [How the Alphabet Came to Be Used in a Sign Language](https://www.jstor.org/stable/26204903). By Carol Padden and Darline Clark Gunsauls. Published 2003. 
   + Very cool! Mentions that ASL uses a lot of fingerspelling + suggests some reasons why.
   + Most fingerspelled words are nouns.
+
+
+## ASL Textbooks
+
+- _American Sign Language: A Teacher's Resource Text On Grammar and Culture_. By Charlotte Baker and Dennis Cokely. Published 1980.
+  + Probably my favorite ASL book so far.
+  + From 1980, so it's old. I think most of the stuff is still good. But I'm not qualified to say.
+  + ASL was recognized as a natural language only in 1960, so there's a lot of "we don't understand this yet." I wish there were an updated version.
+- _Barron's E-Z American Sign Language_. Third edition. By David Stewart, Elizabeth Stewart, Lisa Dimling, and Jessalyn Little. Published 2011.
+  + This is okay. It's teaching me new words. Not sure the grammar stuff is super helpful, though.
+- _Sign-Me-Fine_. By Laura Greene and Eva Barash Dicker. Published 1990.
+  + ASL grammar book for kids middle school--aged and older.
+  + Not very good, unfortunately. Don't think I understand ASL grammar more after reading this.
+- [The ASL App](https://theaslapp.com/). By various Deaf signers.
+  + Short video lessons on ASL. Mostly vocabulary.
+  + This helped me with the numbers beyond 99.
 
 
 ## ASL Storytelling
@@ -202,7 +201,7 @@ Remember that the best teacher is a Deaf instructor or tutor. These resources he
 ### Vernacular
 
 - [A Deaf Perspective: ASL Signs and Slang](https://www.youtube.com/watch?v=K2iRwQJh9dk). By Rogan Shannon and Ren Putz.
-  + Slang and ASL-exclusive words.
+  + Short video on slang and ASL-exclusive words.
 - Lists of ASL idioms: [Bill Vicars's](https://www.lifeprint.com/asl101/pages-layout/idioms.htm) and [Jolanta Lapiak's](https://www.handspeak.com/learn/index.php?id=146).
 
 
