@@ -107,3 +107,33 @@ The first thing is easy. The second thing I'm not so good at. _Sign-Me-Fine_ tal
 ### YOU ... YOU?
 
 That expresses [the concept of "are"](https://www.lifeprint.com/asl101/pages-signs/a/are.htm). It's a form of emphasis or formality or clarity.
+
+
+## Word Order
+
+Word order is hard! Word order is so hard that I've separated it from the Doing Things with Signs section, which overlaps a lot with this section.
+
+I'm not a native signer, which means I don't have an intuitive sense of ASL grammar and whether a sequence of signs seems right or not. This leads to sloppy, confused, and disordered signing.
+
+### Theoretical Knowledge
+
+_Sign Languages: Structures and Contexts_ mentions that ASL is relatively plastic, and that only VSO is illegal.
+
+William G. Vicars [calls SVO the most basic (or common) order in ASL](https://www.lifeprint.com/asl101/topics/subject-verb-object-asl-sentence-structure.htm). He also mentions that topicalization shouldn't be overused and [gives "STORE I GO" as an example](https://www.lifeprint.com/asl101/topics/store-i-go-the-myth.htm). Instead, "I GO STORE" is more common, which matches the English order of "I go to the store." Garrett Bose [agrees](https://www.aslyes.com/common-asl.html).
+
+Which is to say: ASL can be shaped like English and maybe even often is. But to use the shape of English as our guide is a mistake. That makes expressing ASL awfully tricky. I haven't figured it out yet.
+
+### Examples
+
+Let's look at some English--glossed ASL examples.
+
+- I do not earn enough money --- I EARN MONEY NOT ENOUGH.
+  + Both are SVO. 
+  + The difference between them is where "not" is. In ASL, NOT is modifying ENOUGH. In English, "not" is modifying "earn enough."
+  + What's the fancy linguistic term for the difference? Why does it matter?
+- I have seen this movie three times --- THIS MOVIE I FINISH WATCH THREE-TIMES.
+  + SVO versus OSV, I think.
+  + "have" and FINISH are both modifying "seen" and WATCH, respectively. So that's the same.
+- I will be back soon --- BACK SOON WILL.
+  + SVO versus OV. This is a pretty big difference. Not sure what to think of it.
+
