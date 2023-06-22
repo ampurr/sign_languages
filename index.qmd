@@ -7,7 +7,7 @@ toc: false
 
 These are some of my personal notes on sign languages. Mostly American Sign Language (ASL). Don't use this to learn ASL. I'm wrong all the time! And this website is meant only for me, not the public. There are lots of Deaf ASL teachers around. Learn from someone qualified like them, please.
 
-<!-- I'm Anon Y. Mouse, a pseudonymous ASL student. -->I'm using Fredrick Brennan's [TT2020 typeface](https://copypaste.wtf/TT2020/docs/).
+I'm using Fredrick Brennan's [TT2020 typeface](https://copypaste.wtf/TT2020/docs/).
 
 
 ## My Notes
