@@ -1,0 +1,139 @@
+---
+title: "ASL Notes"
+---
+
+
+## Heads Up {.unnumbered .unlisted}
+
+If you are not me, you should not be here! Assume that everything here is wrong and that I don't know what I'm writing about, cuz I don't.
+
+
+## What is This?
+
+Here are my notes on ASL. They're super messy, may change a lot, and are almost certainly super duper wrong.
+
+
+## Mistakes I've Made
+
+So many. I'll try to track them here.
+
+### Bad Reception
+
+A weak point. I gotta work on my receptive skills. Often I can get the gist, but the specifics are beyond me. This makes it difficult to participate in discussions.
+
+Bill Vicar [has some tips on how to get receptive practice](https://www.lifeprint.com/asl101/topics/receptive-asl-skills-practice.htm).
+
+### Missing Signs
+
+Sometimes, when I watch people sign, some signs just drop out of my consciousness and I only realize that the person signed them later. I think this is just a receptive skills thing. Hopefully, more exposure and training will solve this problem.
+
+Similarly, when I sign I may drop words and fail to sign them. I'm hoping this is also a skill issue, but it may be part of my general difficulty with communication.
+
+### Overgeneralization
+
+This is a good one, in the sense that kids go through something similar during language acquisition.
+
+When teaching us how to sign race, Jamil signed SOUTH ASIAN for himself. I wrongly assumed the S-handshape was correct for all cardinal directions. Robert later taught us that north is signed with the N-handshape.
+
+### Picture & Book Reliance
+
+Sometimes I sign things incorrectly cuz I look at still pics (or try to figure it out from words) instead of videos. Usually the handshape is right, but I do the movements wrong.
+
+### Syntax Not Semantics
+
+This is a bad one, in the sense that this generally only happens to grown-ups who learn a new language.
+
+I mix up words which have similar syntax, like BIRTHDAY and FAVORITE, just cuz a lot of the parameters are the same. This is bad! Like, native English speakers don't confused "bat" and "cat" just cuz they sound similar. They mean very different things. BIRTHDAY and FAVORITE mean very different things, too. But I make these mistakes cuz I'm not a native ASL signer.
+
+
+## Understanding the Parts of ASL
+
+[ASL phonology](https://www.handspeak.com/learn/index.php?id=97)! Signs consist of 5 parts, or parameters:
+
+1. Handshape: the shape of the hands.
+2. Movement: how your hands move. For example, verbs move once and nouns twice; e.g. EAT and FOOD.
+3. Location: where the hands are.
+4. Palm Orientation: which way your palms are facing.
+5. Non-manual Signals: consist of everything else. Facial expressions, head tilts, body movements, mouth position, and eye gaze. Handspeak [has a good explanation of them](https://www.handspeak.com/learn/index.php?id=158).
+
+You combine those parts to create a sign. That sign is a morpheme, or a basic unit of meaning. It can either exist by itself or be combined with other signs to generate larger signs. For example, TEACH and PERSON combine into TEACHER.
+
+Some specifics:
+
+### Movement
+
+Signing fast can be used to mean "very." For example: signing SLOW quickly means "very slow." (So does signing it slowly. So maybe not the best example.)
+
+Making your movements bigger when signing can imply largeness. For example: signing FAMILY while making a very large circle means "big family."
+
+### Location
+
+When fingerspelling, [location influences loudness](https://youtu.be/IeeMM7Nts6I). Signing around shoulder height is typical. Signing above the shoulder is shouting, and signing below it is whispering.
+
+
+## Doing Things with Signs
+
+Moving on from the parts themselves to sentences, word order, and just doing stuff that isn't just signing one word.
+
+### Conjunctions
+
+Remember that a conjunction binds two propositions together. ASL has conjunctions similar to English's and even more. In ASL, when signing a conjunction, raise yr eyebrows.
+
+Let's see. There's a bunch:
+
+- There's the rhetorical questions. These are used often. Maybe [too often](https://youtu.be/c-tT_VWfyNU).
+  + There's WHO, WHAT, WHERE, WHEN, WHY, and HOW. Those are straightforward.
+  + Also REASON. And FOR-FOR, though I'm not sure when to use FOR-FOR versus FOR WHAT.
+- IF or SUPPOSE. Begin with SUPPOSE and then pause between the propositions.
+- Don't use AND. [Instead, use PLUS](https://lifeprint.com/asl101/pages-signs/a/and.htm). Or, depending on the context, use ADD, ALSO, BOTH, WITH, or simply index.
+- There are also some conjunctions that aren't used in English. I noticed that I don't really use them spontaneously, nor do my classmates. Not quite sure how to resolve that. These include:
+  + WRONG: suddenly, without warning
+  + HAPPEN: just learned, just like that
+  + DISCOVER: find out, realized
+  + FRUSTRATED: being stopped from
+  + HIT: unexpectedly, coincidence
+
+Jolanta Lapiak [has written about conjunctions](https://www.handspeak.com/learn/index.php?id=35).
+
+### Indexing
+
+You can do two things with indexing:
+
+1. Use it to refer to one or more present `x, y, ... z`. Like a person or an object.
+2. Use it to refer to one or more absent or hypothetical `x, y, ... z`.
+
+The first thing is easy. The second thing I'm not so good at. _Sign-Me-Fine_ talked about it. They suggested a signer index all `x, y, ... z` and then use directional verbs between them. _Barron's E-Z American Sign Language_ instead suggests indexing when needed, which seems more natural to me.
+
+### YOU ... YOU?
+
+That expresses [the concept of "are"](https://www.lifeprint.com/asl101/pages-signs/a/are.htm). It's a form of emphasis or formality or clarity.
+
+
+## Word Order
+
+Word order is hard! Word order is so hard that I've separated it from the Doing Things with Signs section, which overlaps a lot with this section.
+
+I'm not a native signer, which means I don't have an intuitive sense of ASL grammar and whether a sequence of signs seems right or not. This leads to sloppy, confused, and disordered signing.
+
+### Theoretical Knowledge
+
+_Sign Languages: Structures and Contexts_ mentions that ASL is relatively plastic, and that only VSO is illegal.
+
+William G. Vicars [calls SVO the most basic (or common) order in ASL](https://www.lifeprint.com/asl101/topics/subject-verb-object-asl-sentence-structure.htm). He also mentions that topicalization shouldn't be overused and [gives "STORE I GO" as an example](https://www.lifeprint.com/asl101/topics/store-i-go-the-myth.htm). Instead, "I GO STORE" is more common, which matches the English order of "I go to the store." Garrett Bose [agrees](https://www.aslyes.com/common-asl.html).
+
+Which is to say: ASL can be shaped like English and maybe even often is. But to use the shape of English as our guide is a mistake. That makes expressing ASL awfully tricky. I haven't figured it out yet.
+
+### Examples
+
+Let's look at some English--glossed ASL examples.
+
+- I do not earn enough money --- I EARN MONEY NOT ENOUGH.
+  + Both are SVO. 
+  + The difference between them is where "not" is. In ASL, NOT is modifying ENOUGH. In English, "not" is modifying "earn enough."
+  + What's the fancy linguistic term for the difference? Why does it matter?
+- I have seen this movie three times --- THIS MOVIE I FINISH WATCH THREE-TIMES.
+  + SVO versus OSV, I think.
+  + "have" and FINISH are both modifying "seen" and WATCH, respectively. So that's the same.
+- I will be back soon --- BACK SOON WILL.
+  + SVO versus OV. This is a pretty big difference. Not sure what to think of it.
+
