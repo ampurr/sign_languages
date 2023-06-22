@@ -1,6 +1,7 @@
 project:
   title: "sign_languages"
   type: website
+  output-dir: docs
 
 format:
   html:
