@@ -7,6 +7,8 @@ format:
     anchor-sections: false
 css: changes.css
 from: markdown+emoji
+execute:
+  freeze: auto
 
 toc: true
 toc-location: body
