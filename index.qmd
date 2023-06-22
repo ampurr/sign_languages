@@ -12,9 +12,9 @@ These are some of my personal notes on sign languages. Mostly American Sign Lang
 
 ## My Notes
 
-- [American Sign Language: Notes](notes.html)
-- [Hawaiʻi Sign Language: Brief Notes](hsl.html)
-- [Sign Languages: Resources](resources.html)
+- [American Sign Language: Notes](notes.qmd)
+- [Hawaiʻi Sign Language: Brief Notes](hsl.qmd)
+- [Sign Languages: Resources](resources.qmd)
 
 
 ## Motivation
