@@ -1,5 +1,6 @@
 project:
   title: "sign_languages"
+  type: website
 
 format:
   html:
