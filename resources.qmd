@@ -10,7 +10,7 @@ If you are not me, you should not be here! Assume that everything here is wrong 
 
 ## What are these Resources About?
 
-These are educational, fun, or interesting resources on ASL, Deaf culture and history, and other sign languages. Sources marked with a :cherries: emoji haven't been looked at, but they're here cuz I thought they seemed useful.
+These are educational, fun, or interesting resources on ASL, Deaf culture and history, and other sign languages. Sources marked with a :bug: emoji haven't been looked at, but they're here cuz I thought they seemed useful.
 
 Note to self: remember that the best teacher is a Deaf instructor or tutor. These resources help with learning but are insufficient for getting a thorough understanding of sign languages or Deaf culture.
 
@@ -65,7 +65,7 @@ Note to self: remember that the best teacher is a Deaf instructor or tutor. Thes
   + Not an exceptional dictionary. Mostly cuz it's so hard to search and pics fail to capture what videos can.
   + Probably best used to remind me what signs look like. But definitely not for learning.
   + The chapter on classifiers is nice, though.
-- _The Gallaudet Children's Dictionary of American Sign Language_. By GU editors and illustrators. Published 2014. :cherries:
+- _The Gallaudet Children's Dictionary of American Sign Language_. By GU editors and illustrators. Published 2014. :bug:
   + Looks similar to the adult dictionary, but it's more colorful, which I like. :rainbow:
   + Has a [companion website](https://gcdasl.com/).
 
@@ -203,7 +203,7 @@ Note to self: remember that the best teacher is a Deaf instructor or tutor. Thes
 - [English By Eye, or Read with ASL](https://englishbyeye.org/). By ASL Access.
   + All about education and teaching ASL and English.
   + Their videos focus on teaching signs with multiple meanings.
-- _Fingerspelling: Expressive & Receptive Fluency_. By Joyce Linden Groode. Published 2004. :cherries:
+- _Fingerspelling: Expressive & Receptive Fluency_. By Joyce Linden Groode. Published 2004. :bug:
   + [Website's here](https://www.dawnsign.com/products/details/fingerspelling-expressive-receptive-fluency). The trailer seems very 1990s.
   + Bill Vicars [recommended an older version](https://www.lifeprint.com/asl101/fingerspelling/fingerspellinglexicalized.htm) of this video.
 - [RADSCC: ASL Lecture Series](https://www.rit.edu/ntid/radscc-presentations-asl). By RIT NTID.
