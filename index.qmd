@@ -14,6 +14,7 @@ I'm using Fredrick Brennan's [TT2020 typeface](https://copypaste.wtf/TT2020/docs
 
 - [American Sign Language: Notes](notes.qmd)
 - [Hawaiʻi Sign Language: Brief Notes](hsl.qmd)
+- [Protactile American Sign Language](protactile.qmd)
 - [Sign Languages: Resources](resources.qmd)
 
 
