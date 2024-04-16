@@ -1,0 +1,48 @@
+---
+title: "Protactile"
+---
+
+
+## Heads Up {.unnumbered .unlisted}
+
+If you are not me, you should not be here! Assume that everything here is wrong and that I don't know what I'm writing about, cuz I don't.
+
+
+## What is Protactile?
+
+Protactile, sometimes referred to as protactile ASL (PTASL), is a sign language that developed from communication between DeafBlind people in the beginning of the 21st century. It's derived from ASL and is heavily touch- and body-focused. I don't really know much else.
+
+
+## DeafBlind Culture & History
+
+- [Against Access](https://audio.mcsweeneys.net/transcripts/against_access.html). By John Lee Clark.
+  + An incredible essay on accessibility, abled arrogance, alt text, and interpreters fearful of bias. I can't believe this was published in _McSweeney's_.
+- _Deaf-Blind Reality_. Edited by Scott M. Stoffel. Published 2012.
+  + Collected stories about DeafBlind lives.
+- [John Lee Clark's Weblog](https://johnleeclark-blog.tumblr.com/).
+  + Really good essays on the DeafBlind world and oppression by hearing and sighted individuals.
+  + No longer being updated.
+
+
+## PTASL Info
+
+- [DeafBlind Kids](https://www.deafblindkids.org/).
+  + Lessons on how to use Protactile, with a focus on communicating with DeafBlind children.
+- [Protactile Language Interpreting](https://www.protactilelanguageinterpreting.org/). By Western Oregon University.
+  + Offers virtual training for Protactile interpreters.
+  + Not rigorous or intended as a substitute for interacting with the DeafBlind community.
+- [Protactile Linguistics: Discussing Recent Research Findings](https://journalofasl.com/protactile-linguistics/). By Jelica Nuccio and John Lee Clark. Published 2020.
+  + Two DeafBlind discuss Protactile linguistics.
+  + Some highlights: Protactile is historically connected with ASL but is slowly diverging from it. It uses contact space instead of signing space. It uses four hands instead of ASL's two.
+- [Protactile Research Network](https://www.protactileresearch.org/).
+  + Academic and educational research on Protactile and communication within DeafBlind circles.
+- [Tactile Communications](https://www.tactilecommunications.org/).
+  + A training center by and for DeafBlind people based in Monmouth, Oregon.
+  + Has a [list of resources on Protactile](https://www.tactilecommunications.org/Resources/).
+
+
+## Media
+
+- [American Masters: DeafBlind People are Creating a New Language](https://www.youtube.com/watch?v=ney1gZ1iN_k). By PBS.
+  + This version includes closed captioning. There is an alternative version with [audio descriptions and ASL interpretation](https://www.youtube.com/watch?v=6zCzsmg7kdY&t=0s). And another version with [extended audio descriptions and open captions](https://www.youtube.com/watch?v=6zCzsmg7kdY&t=0s).
+  + About Protactile and the DeafBlind experience.
