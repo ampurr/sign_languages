@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.550">
+<meta name="generator" content="quarto-1.4.553">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -140,6 +140,11 @@ ul.task-list li input[type="checkbox"] {
 <ul>
 <li>Lots of info on Deaf artists and art.</li>
 </ul></li>
+<li><a href="https://deafculturethat.com/">Deaf Culture That</a>. By Thomas K. Holcomb and Anna Mindess.
+<ul>
+<li>Everything people need to know about Deaf culture and Deaf-hearing interactions.</li>
+<li>Doesn’t look like it’s being updated anymore.</li>
+</ul></li>
 <li><a href="https://deafpower.me/resources/">Deaf Power</a>. By Christine Sun Kim and Ravi Vasavan, amongst others.
 <ul>
 <li>Resources and info from a Deaf power perspective. There is some ASL info, too.</li>
@@ -179,6 +184,15 @@ ul.task-list li input[type="checkbox"] {
 <li><a href="https://deafcoffee.com/">Deaf Coffee</a>.
 <ul>
 <li>Deaf meetups around the US.</li>
+</ul></li>
+<li><a href="https://deafnyc.com/">Deaf NYC</a>.
+<ul>
+<li>Deaf and signing events around New York City.</li>
+</ul></li>
+<li><a href="https://www.deafspotlight.org/">Deaf Spotlight</a>.
+<ul>
+<li>Seattle-based arts nonprofit focused on Deaf culture and sign languages.</li>
+<li>Runs the <a href="https://www.deafspotlight.org/sdff">Seattle Deaf Film Festival</a>.</li>
 </ul></li>
 </ul>
 </section>
@@ -378,10 +392,18 @@ ul.task-list li input[type="checkbox"] {
 <li>Some Sesame Street songs translated to ASL.</li>
 <li>Joey is a performer for some of them!</li>
 </ul></li>
+<li><a href="https://www.itv.com/signedstories">Signed Stories</a>. By ITV.
+<ul>
+<li>Children’s stories signed in ASL or BSL.</li>
+</ul></li>
 <li><a href="https://www.signupcaptions.com/">SignUp</a>. By Mariella Satow and ASL interpreters.
 <ul>
 <li>Kids’ movies interpreted in ASL via a Chrome extension.</li>
 <li>Unfortunately, the ASL video often isn’t well-synchronized with the movie it’s meant to be interpreting. This makes it difficult to use.</li>
+</ul></li>
+<li><a href="https://www.handspeak.com/learn/251/">Speak in ASL: Candid Videography</a>. By Jolanta Lapiak.
+<ul>
+<li>Usually, hearing people can safely assume their spoken language is dominant and default. What if a Deaf person flipped the script? What if ASL were the default?</li>
 </ul></li>
 <li><a href="https://www.youtube.com/channel/UC2qLnnrBIAdqvbHUiuPmH6w">TreeSchool and Signing Time</a>.
 <ul>
@@ -522,6 +544,11 @@ ul.task-list li input[type="checkbox"] {
 <li>Hearing professor at GU.</li>
 <li>The links to video resources seem helpful.</li>
 </ul></li>
+<li><a href="https://www.signwriting.org/">SignWriting</a>.
+<ul>
+<li>Sometimes referred to as <a href="https://en.wikipedia.org/wiki/SignWriting">Sutton SignWriting</a>. A 2D writing system for ASL and other sign languages.</li>
+<li>See the <a href="https://www.signwriting.org/library/">SignWriting Library</a> for literature, dictionaries, and more.</li>
+</ul></li>
 <li><a href="https://aslfont.github.io/Symbol-Font-For-ASL/">Symbol Font for ASL</a>. By Murray Inman.
 <ul>
 <li>A website with compiled info about writing ASL. Very cool problem that I’ve never thought about before reading this and going on a hunt for knowledge about written ASL.</li>
@@ -613,6 +640,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
@@ -647,7 +692,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
   const xrefs = window.document.querySelectorAll('a.quarto-xref');
