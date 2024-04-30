@@ -228,6 +228,8 @@ Note to self: remember that the best teacher is a Deaf instructor or tutor. Thes
 - _Fingerspelling: Expressive & Receptive Fluency_. By Joyce Linden Groode. Published 2004. :bug:
   + [Website's here](https://www.dawnsign.com/products/details/fingerspelling-expressive-receptive-fluency). The trailer seems very 1990s.
   + Bill Vicars [recommended an older version](https://www.lifeprint.com/asl101/fingerspelling/fingerspellinglexicalized.htm) of this video.
+- [Minimal Pairs in ASL](https://www.handspeak.com/learn/109/). By Jolanta Lapiak.
+  + Minimal pairs are a set of words that differ only by one phoneme. In sign languages, a minimal pair differs by one [parameter](https://www.handspeak.com/learn/397/).
 - [RADSCC: ASL Lecture Series](https://www.rit.edu/ntid/radscc-presentations-asl). By RIT NTID.
   + Lectures on ASL and Deaf culture, as well as their histories.
 - [Signplaying](https://signplaying.com/home/). By Eric Epstein.
