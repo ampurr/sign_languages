@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.40">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -33,10 +33,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-01083dfbad52c23f299d31cb9917b740.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -218,6 +218,7 @@ ul.task-list li input[type="checkbox"] {
 <li>Great ASL-English dictionary — arguably the best.</li>
 <li>Contains an extraordinary reverse dictionary. As far as I can tell, it’s the only one online. Some signs in the main dictionary are missing in the reverse dictionary.</li>
 <li>Has tutorials on grammar and conjunctions and stuff.</li>
+<li>Offers <a href="https://www.handspeak.com/learn/413/">fingerspelling receptive practice</a> and <a href="https://www.handspeak.com/learn/23/">number receptive practice</a> videos.</li>
 </ul></li>
 <li><a href="https://www.signingsavvy.com/">Signing Savvy</a>. By <a href="https://www.signingsavvy.com/team/leadershipteam">a large team</a>.
 <ul>
@@ -452,6 +453,11 @@ ul.task-list li input[type="checkbox"] {
 <li>Lots of stuff on grammar and structure, including mouth morphemes. Pretty exciting.</li>
 <li>Also, there’s some vocabulary stuff, too.</li>
 </ul></li>
+<li><a href="https://atomichands.com/">Atomic Hands</a>. By Dr.&nbsp;Alicia Wooten and Dr.&nbsp;Barbara Spiecker.
+<ul>
+<li>Scientific topics in ASL, mostly at the secondary school level and below.</li>
+<li>See the <a href="https://atomichands.com/asl-stem-storybooks/">STEM storybooks</a>, <a href="https://atomichands.com/videos/">STEM videos</a>, and <a href="https://www.youtube.com/@atomichands">corresponding YouTube channel</a>.</li>
+</ul></li>
 <li><a href="https://gallaudet.edu/asl-connect/topics/">Gallaudet University’s ASL Connect</a>.
 <ul>
 <li>Very basic ASL organized by topic.</li>
@@ -651,8 +657,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -763,7 +767,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
