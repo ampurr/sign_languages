@@ -137,3 +137,8 @@ Let's look at some English--glossed ASL examples.
 - I will be back soon --- BACK SOON WILL.
   + SVO versus OV. This is a pretty big difference. Not sure what to think of it.
 
+<!-- ## Really Cool Things About ASL
+
+1. The 3D structure! Verbal language is 1D + time---it's linear and can only move in one dimension. You can show things in 3D space in ASL which I really like. I'm not great at it but hopefully I'll get better at it.^[[Dragon](https://thatdeafguy.com/2012-10-18/). :dragon: ]
+2. Exception: Fingerspelling is linear.
+3. -->
