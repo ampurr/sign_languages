@@ -12,7 +12,6 @@ I'm using Fredrick Brennan's [TT2020 typeface](https://copypaste.wtf/TT2020/docs
 
 ## My Notes
 
-- [American Sign Language: Notes](notes.qmd)
 - [Hawaiʻi Sign Language: Brief Notes](hsl.qmd)
 - [Protactile American Sign Language: Brief Notes](protactile.qmd)
 - [Sign Languages: Resources](resources.qmd)
@@ -25,10 +24,3 @@ I like ASL a lot but I'm not very good at it. I'm hoping that keeping these note
 Originally this was a vocab list. I kept forgetting words. Unfortunately I'm slow and it would take me literal days to transcribe the words and their structure, so I stopped doing that. Probably wasn't helping too much anyway. I also read a bunch of books about ASL and wanted to keep track. And I wanted to be able to easily access the document on multiple devices. So: website!
 
 I make a lot of mistakes and I'm wrong a lot, so hopefully this will help me keep track of those, too.
-
-
-<!-- ## Really Cool Things About ASL
-
-1. The 3D structure! Verbal language is 1D + time---it's linear and can only move in one dimension. You can show things in 3D space in ASL which I really like. I'm not great at it but hopefully I'll get better at it.^[[Dragon](https://thatdeafguy.com/2012-10-18/). :dragon: ]
-2. Exception: Fingerspelling is linear.
-3. -->
