@@ -50,6 +50,9 @@ Note to self: remember that the best teacher is a Deaf instructor or tutor. Thes
 - [Deaf Spotlight](https://www.deafspotlight.org/).
   + Seattle-based arts nonprofit focused on Deaf culture and sign languages.
   + Runs the [Seattle Deaf Film Festival](https://www.deafspotlight.org/sdff).
+- [Metropolitian Asian Deaf Association](https://madanyc.org/).
+  + NY-based social club-turned-advocacy organization.
+  + Is gonna host the [Deaf Asian Street Festival](https://madanyc.org/dasf/).
 
 
 ## Dictionaries
@@ -145,6 +148,8 @@ Note to self: remember that the best teacher is a Deaf instructor or tutor. Thes
   + ASL storytime! Stories from primary school books. :book:
 - [ASL Storytime by the Washington School for the Deaf](https://www.wsd.wa.gov/video-category/asl-storytime/).
   + Children's stories interpreted in ASL.
+- [CBC Kids ASL Collection](https://gem.cbc.ca/collection/cbc-kids-asl-collection).
+  + Consists of _Silly Paws_ and two other ASL shows: one about dinosaurs and the other, bizarrely, about music.
 - [Charlie Swinbourne's Stories](https://charlieswinbourne.com/). By Charlie Swinbourne.
   + By a Deaf British director depicting Deaf life in the UK. Uses BSL.
   + My current favorite is [Coming Out](https://www.youtube.com/watch?v=K3ai5IVfFdE), which is really funny.
@@ -256,6 +261,8 @@ Note to self: remember that the best teacher is a Deaf instructor or tutor. Thes
 - [ASL Signbank](https://aslsignbank.haskins.yale.edu/). By Julie A. Hochgesang and many others.
   + A collection of signs organized by glosses for the purpose of annotating ASL videos.
   + Not a learning resource.
+- [Lansing Community College Library Research Guide: Sign Language](https://libguides.lcc.edu/signlanguage).
+  + Lots of suggested resources, including [receptive and expressive practice](https://libguides.lcc.edu/c.php?g=167870&p=10411180).
 - [List of ASL Resources](https://docs.google.com/document/d/1nIl25bnKeQl0OXkMZoq9PkW-vC6VFAqlMgBVK4-EsxM/edit). By K.
   + Some resources, though a lot of it isn't useful to me in particular.
 - [NAD: Learning American Sign Language](https://www.nad.org/resources/american-sign-language/learning-american-sign-language/). By the NAD.
