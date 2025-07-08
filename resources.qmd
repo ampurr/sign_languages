@@ -82,7 +82,7 @@ Note to self: remember that the best teacher is a Deaf instructor or tutor. Thes
   + The chapter on classifiers is nice, though.
 - _The Gallaudet Children's Dictionary of American Sign Language_. By GU editors and illustrators. Published 2014. :bug:
   + Looks similar to the adult dictionary, but it's more colorful, which I like. :rainbow:
-  + Has a [companion website](https://gcdasl.com/).
+  + Has a [companion website](https://gcdasl.com/) with [sentences](https://gcdasl.com/sentences/).
 
 
 ## Linguistics
